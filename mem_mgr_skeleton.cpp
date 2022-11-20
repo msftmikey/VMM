@@ -1,4 +1,4 @@
-//  mem_mgr.cpp
+//  mem_mgr_skeleton.cpp
 
 /*
 	Trung Tran: trungqt2@csu.fullerton.edu

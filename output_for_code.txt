@@ -1,0 +1,1017 @@
+log: 12659 0x12659 (pg: 49, off:115)-->phy:  4211 (frm:  16) (prv:  16)--> val:   92 == value:   92 --  + ----> pg_fault
+
+log: 14052 0x14052 (pg: 54, off:228)-->phy:   228 (frm:   0) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 32956 0x32956 (pg:128, off:188)-->phy:  3260 (frm:  12) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 49273 0x49273 (pg:192, off:121)-->phy:   377 (frm:   1) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 50352 0x50352 (pg:196, off:176)-->phy:   688 (frm:   2) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 49737 0x49737 (pg:194, off: 73)-->phy:   841 (frm:   3) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 15555 0x15555 (pg: 60, off:195)-->phy:  1219 (frm:   4) (prv:  16)--> val:   48 == value:   48 --  +    HIT!
+log: 47475 0x47475 (pg:185, off:115)-->phy:  1395 (frm:   5) (prv:  16)--> val:   92 == value:   92 --  +    HIT!
+log: 15328 0x15328 (pg: 59, off:224)-->phy:  1760 (frm:   6) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 34621 0x34621 (pg:135, off: 61)-->phy:  2877 (frm:  11) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 51365 0x51365 (pg:200, off:165)-->phy:  1957 (frm:   7) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 32820 0x32820 (pg:128, off: 52)-->phy:  3124 (frm:  12) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 48855 0x48855 (pg:190, off:215)-->phy:  2263 (frm:   8) (prv:  16)--> val:  -75 == value:  -75 --  +    HIT!
+log: 12224 0x12224 (pg: 47, off:192)-->phy:  2496 (frm:   9) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  2035 0x2035 (pg:  7, off:243)-->phy:  2803 (frm:  10) (prv:  16)--> val:   -4 == value:   -4 --  +    HIT!
+log: 60539 0x60539 (pg:236, off:123)-->phy:  2939 (frm:  11) (prv:  16)--> val:   30 == value:   30 --  +    HIT!
+
+log: 14595 0x14595 (pg: 57, off:  3)-->phy:  3075 (frm:  12) (prv:  16)--> val:   64 == value:   64 --  +    HIT!
+log: 13853 0x13853 (pg: 54, off: 29)-->phy:    29 (frm:   0) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 24143 0x24143 (pg: 94, off: 79)-->phy:  3407 (frm:  13) (prv:  16)--> val: -109 == value: -109 --  +    HIT!
+log: 15216 0x15216 (pg: 59, off:112)-->phy:  1648 (frm:   6) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  8113 0x8113 (pg: 31, off:177)-->phy:  3761 (frm:  14) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 22640 0x22640 (pg: 88, off:112)-->phy:  3952 (frm:  15) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 32978 0x32978 (pg:128, off:210)-->phy:  4306 (frm:  16) (prv:  16)--> val:   32 == value:   32 --  + ----> pg_fault
+log: 39151 0x39151 (pg:152, off:239)-->phy:   239 (frm:   0) (prv:  16)--> val:   59 == value:   59 --  +    HIT!
+log: 19520 0x19520 (pg: 76, off: 64)-->phy:   320 (frm:   1) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 58141 0x58141 (pg:227, off: 29)-->phy:   541 (frm:   2) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 63959 0x63959 (pg:249, off:215)-->phy:   983 (frm:   3) (prv:  16)--> val:  117 == value:  117 --  +    HIT!
+log: 53040 0x53040 (pg:207, off: 48)-->phy:  1072 (frm:   4) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 55842 0x55842 (pg:218, off: 34)-->phy:  1314 (frm:   5) (prv:  16)--> val:   54 == value:   54 --  +    HIT!
+log:   585 0x0585 (pg:  2, off: 73)-->phy:  1609 (frm:   6) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 51229 0x51229 (pg:200, off: 29)-->phy:  1821 (frm:   7) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 64181 0x64181 (pg:250, off:181)-->phy:  1973 (frm:   7) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 54879 0x54879 (pg:214, off: 95)-->phy:  2143 (frm:   8) (prv:  16)--> val: -105 == value: -105 --  +    HIT!
+log: 28210 0x28210 (pg:110, off: 50)-->phy:  2354 (frm:   9) (prv:  16)--> val:   27 == value:   27 --  +    HIT!
+log: 10268 0x10268 (pg: 40, off: 28)-->phy:  2588 (frm:  10) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 15395 0x15395 (pg: 60, off: 35)-->phy:  2851 (frm:  11) (prv:  16)--> val:    8 == value:    8 --  +    HIT!
+
+log: 12884 0x12884 (pg: 50, off: 84)-->phy:  3156 (frm:  12) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  2149 0x2149 (pg:  8, off:101)-->phy:  3429 (frm:  13) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 53483 0x53483 (pg:208, off:235)-->phy:  3819 (frm:  14) (prv:  16)--> val:   58 == value:   58 --  +    HIT!
+log: 59606 0x59606 (pg:232, off:214)-->phy:  4054 (frm:  15) (prv:  16)--> val:   58 == value:   58 --  +    HIT!
+log: 14981 0x14981 (pg: 58, off:133)-->phy:  4229 (frm:  16) (prv:  16)--> val:    0 == value:    0 --  + ----> pg_fault
+
+log: 36672 0x36672 (pg:143, off: 64)-->phy:    64 (frm:   0) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 23197 0x23197 (pg: 90, off:157)-->phy:   413 (frm:   1) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 36518 0x36518 (pg:142, off:166)-->phy:   678 (frm:   2) (prv:  16)--> val:   35 == value:   35 --  +    HIT!
+log: 13361 0x13361 (pg: 52, off: 49)-->phy:   817 (frm:   3) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 19810 0x19810 (pg: 77, off: 98)-->phy:  1122 (frm:   4) (prv:  16)--> val:   19 == value:   19 --  +    HIT!
+
+log: 25955 0x25955 (pg:101, off: 99)-->phy:  1379 (frm:   5) (prv:  16)--> val:   88 == value:   88 --  +    HIT!
+log: 62678 0x62678 (pg:244, off:214)-->phy:  1750 (frm:   6) (prv:  16)--> val:   61 == value:   61 --  +    HIT!
+log: 26021 0x26021 (pg:101, off:165)-->phy:  1445 (frm:   5) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 29409 0x29409 (pg:114, off:225)-->phy:  2017 (frm:   7) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 38111 0x38111 (pg:148, off:223)-->phy:  2271 (frm:   8) (prv:  16)--> val:   55 == value:   55 --  +    HIT!
+
+log: 58573 0x58573 (pg:228, off:205)-->phy:  2509 (frm:   9) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 56840 0x56840 (pg:222, off:  8)-->phy:  2568 (frm:  10) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 41306 0x41306 (pg:161, off: 90)-->phy:  2906 (frm:  11) (prv:  16)--> val:   40 == value:   40 --  +    HIT!
+log: 54426 0x54426 (pg:212, off:154)-->phy:  3226 (frm:  12) (prv:  16)--> val:   53 == value:   53 --  +    HIT!
+log:  3617 0x3617 (pg: 14, off: 33)-->phy:  3361 (frm:  13) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 50652 0x50652 (pg:197, off:220)-->phy:  3804 (frm:  14) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 41452 0x41452 (pg:161, off:236)-->phy:  3052 (frm:  11) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 20241 0x20241 (pg: 79, off: 17)-->phy:  3857 (frm:  15) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 31723 0x31723 (pg:123, off:235)-->phy:  4331 (frm:  16) (prv:  16)--> val:   -6 == value:   -6 --  + ----> pg_fault
+log: 53747 0x53747 (pg:209, off:243)-->phy:   243 (frm:   0) (prv:  16)--> val:  124 == value:  124 --  +    HIT!
+
+log: 28550 0x28550 (pg:111, off:134)-->phy:   390 (frm:   1) (prv:  16)--> val:   27 == value:   27 --  +    HIT!
+log: 23402 0x23402 (pg: 91, off:106)-->phy:   618 (frm:   2) (prv:  16)--> val:   22 == value:   22 --  +    HIT!
+log: 21205 0x21205 (pg: 82, off:213)-->phy:   981 (frm:   3) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 56181 0x56181 (pg:219, off:117)-->phy:  1141 (frm:   4) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 57470 0x57470 (pg:224, off:126)-->phy:  1406 (frm:   5) (prv:  16)--> val:   56 == value:   56 --  +    HIT!
+
+log: 39933 0x39933 (pg:155, off:253)-->phy:  1789 (frm:   6) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 34964 0x34964 (pg:136, off:148)-->phy:  1940 (frm:   7) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 24781 0x24781 (pg: 96, off:205)-->phy:  2253 (frm:   8) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 41747 0x41747 (pg:163, off: 19)-->phy:  2323 (frm:   9) (prv:  16)--> val:  -60 == value:  -60 --  +    HIT!
+log: 62564 0x62564 (pg:244, off:100)-->phy:  2660 (frm:  10) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 58461 0x58461 (pg:228, off: 93)-->phy:  2909 (frm:  11) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 20858 0x20858 (pg: 81, off:122)-->phy:  3194 (frm:  12) (prv:  16)--> val:   20 == value:   20 --  +    HIT!
+log: 49301 0x49301 (pg:192, off:149)-->phy:  3477 (frm:  13) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 40572 0x40572 (pg:158, off:124)-->phy:  3708 (frm:  14) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 23840 0x23840 (pg: 93, off: 32)-->phy:  3872 (frm:  15) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 35278 0x35278 (pg:137, off:206)-->phy:  4302 (frm:  16) (prv:  16)--> val:   34 == value:   34 --  + ----> pg_fault
+log: 62905 0x62905 (pg:245, off:185)-->phy:   185 (frm:   0) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 56650 0x56650 (pg:221, off: 74)-->phy:   330 (frm:   1) (prv:  16)--> val:   55 == value:   55 --  +    HIT!
+log: 11149 0x11149 (pg: 43, off:141)-->phy:   653 (frm:   2) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 38920 0x38920 (pg:152, off:  8)-->phy:   776 (frm:   3) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 23430 0x23430 (pg: 91, off:134)-->phy:  1158 (frm:   4) (prv:  16)--> val:   22 == value:   22 --  +    HIT!
+log: 57592 0x57592 (pg:224, off:248)-->phy:  1528 (frm:   5) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  3080 0x3080 (pg: 12, off:  8)-->phy:  1288 (frm:   5) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  6677 0x6677 (pg: 26, off: 21)-->phy:  1557 (frm:   6) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 50704 0x50704 (pg:198, off: 16)-->phy:  1808 (frm:   7) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 51883 0x51883 (pg:202, off:171)-->phy:  2219 (frm:   8) (prv:  16)--> val:  -86 == value:  -86 --  +    HIT!
+log: 62799 0x62799 (pg:245, off: 79)-->phy:    79 (frm:   0) (prv:  16)--> val:   83 == value:   83 --  +    HIT!
+log: 20188 0x20188 (pg: 78, off:220)-->phy:  2524 (frm:   9) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  1245 0x1245 (pg:  4, off:221)-->phy:  2781 (frm:  10) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 12220 0x12220 (pg: 47, off:188)-->phy:  3004 (frm:  11) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 17602 0x17602 (pg: 68, off:194)-->phy:  3266 (frm:  12) (prv:  16)--> val:   17 == value:   17 --  +    HIT!
+log: 28609 0x28609 (pg:111, off:193)-->phy:  3521 (frm:  13) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 42694 0x42694 (pg:166, off:198)-->phy:  3782 (frm:  14) (prv:  16)--> val:   41 == value:   41 --  +    HIT!
+log: 29826 0x29826 (pg:116, off:130)-->phy:  3970 (frm:  15) (prv:  16)--> val:   29 == value:   29 --  +    HIT!
+log: 13827 0x13827 (pg: 54, off:  3)-->phy:  4099 (frm:  16) (prv:  16)--> val: -128 == value: -128 --  + ----> pg_fault
+
+log: 27336 0x27336 (pg:106, off:200)-->phy:   200 (frm:   0) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 53343 0x53343 (pg:208, off: 95)-->phy:   351 (frm:   1) (prv:  16)--> val:   23 == value:   23 --  +    HIT!
+log: 11533 0x11533 (pg: 45, off: 13)-->phy:   525 (frm:   2) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 41713 0x41713 (pg:162, off:241)-->phy:  1009 (frm:   3) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 33890 0x33890 (pg:132, off: 98)-->phy:  1122 (frm:   4) (prv:  16)--> val:   33 == value:   33 --  +    HIT!
+
+log:  4894 0x4894 (pg: 19, off: 30)-->phy:  1310 (frm:   5) (prv:  16)--> val:    4 == value:    4 --  +    HIT!
+log: 57599 0x57599 (pg:224, off:255)-->phy:  1791 (frm:   6) (prv:  16)--> val:   63 == value:   63 --  +    HIT!
+log:  3870 0x3870 (pg: 15, off: 30)-->phy:  1822 (frm:   7) (prv:  16)--> val:    3 == value:    3 --  +    HIT!
+log: 58622 0x58622 (pg:228, off:254)-->phy:  2302 (frm:   8) (prv:  16)--> val:   57 == value:   57 --  +    HIT!
+log: 29780 0x29780 (pg:116, off: 84)-->phy:  3924 (frm:  15) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 62553 0x62553 (pg:244, off: 89)-->phy:  2393 (frm:   9) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  2303 0x2303 (pg:  8, off:255)-->phy:  2815 (frm:  10) (prv:  16)--> val:   63 == value:   63 --  +    HIT!
+log: 51915 0x51915 (pg:202, off:203)-->phy:  3019 (frm:  11) (prv:  16)--> val:  -78 == value:  -78 --  +    HIT!
+log:  6251 0x6251 (pg: 24, off:107)-->phy:  3179 (frm:  12) (prv:  16)--> val:   26 == value:   26 --  +    HIT!
+log: 38107 0x38107 (pg:148, off:219)-->phy:  3547 (frm:  13) (prv:  16)--> val:   54 == value:   54 --  +    HIT!
+
+log: 59325 0x59325 (pg:231, off:189)-->phy:  3773 (frm:  14) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 61295 0x61295 (pg:239, off:111)-->phy:  3951 (frm:  15) (prv:  16)--> val:  -37 == value:  -37 --  +    HIT!
+log: 26699 0x26699 (pg:104, off: 75)-->phy:  4171 (frm:  16) (prv:  16)--> val:   18 == value:   18 --  + ----> pg_fault
+log: 51188 0x51188 (pg:199, off:244)-->phy:   244 (frm:   0) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 59519 0x59519 (pg:232, off:127)-->phy:   383 (frm:   1) (prv:  16)--> val:   31 == value:   31 --  +    HIT!
+
+log:  7345 0x7345 (pg: 28, off:177)-->phy:   689 (frm:   2) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 20325 0x20325 (pg: 79, off:101)-->phy:   869 (frm:   3) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 39633 0x39633 (pg:154, off:209)-->phy:  1233 (frm:   4) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  1562 0x1562 (pg:  6, off: 26)-->phy:  1306 (frm:   5) (prv:  16)--> val:    1 == value:    1 --  +    HIT!
+log:  7580 0x7580 (pg: 29, off:156)-->phy:  1692 (frm:   6) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log:  8170 0x8170 (pg: 31, off:234)-->phy:  2026 (frm:   7) (prv:  16)--> val:    7 == value:    7 --  +    HIT!
+log: 62256 0x62256 (pg:243, off: 48)-->phy:  2096 (frm:   8) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 35823 0x35823 (pg:139, off:239)-->phy:  2543 (frm:   9) (prv:  16)--> val:   -5 == value:   -5 --  +    HIT!
+log: 27790 0x27790 (pg:108, off:142)-->phy:  2702 (frm:  10) (prv:  16)--> val:   27 == value:   27 --  +    HIT!
+log: 13191 0x13191 (pg: 51, off:135)-->phy:  2951 (frm:  11) (prv:  16)--> val:  -31 == value:  -31 --  +    HIT!
+
+log:  9772 0x9772 (pg: 38, off: 44)-->phy:  3116 (frm:  12) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  7477 0x7477 (pg: 29, off: 53)-->phy:  1589 (frm:   6) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 44455 0x44455 (pg:173, off:167)-->phy:  3495 (frm:  13) (prv:  16)--> val:  105 == value:  105 --  +    HIT!
+log: 59546 0x59546 (pg:232, off:154)-->phy:   410 (frm:   1) (prv:  16)--> val:   58 == value:   58 --  +    HIT!
+log: 49347 0x49347 (pg:192, off:195)-->phy:  3779 (frm:  14) (prv:  16)--> val:   48 == value:   48 --  +    HIT!
+
+log: 36539 0x36539 (pg:142, off:187)-->phy:  4027 (frm:  15) (prv:  16)--> val:  -82 == value:  -82 --  +    HIT!
+log: 12453 0x12453 (pg: 48, off:165)-->phy:  4261 (frm:  16) (prv:  16)--> val:    0 == value:    0 --  + ----> pg_fault
+log: 49640 0x49640 (pg:193, off:232)-->phy:   232 (frm:   0) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 28290 0x28290 (pg:110, off:130)-->phy:   386 (frm:   1) (prv:  16)--> val:   27 == value:   27 --  +    HIT!
+log: 44817 0x44817 (pg:175, off: 17)-->phy:   529 (frm:   2) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log:  8565 0x8565 (pg: 33, off:117)-->phy:   885 (frm:   3) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 16399 0x16399 (pg: 64, off: 15)-->phy:  1039 (frm:   4) (prv:  16)--> val:    3 == value:    3 --  +    HIT!
+log: 41934 0x41934 (pg:163, off:206)-->phy:  1486 (frm:   5) (prv:  16)--> val:   40 == value:   40 --  +    HIT!
+log: 45457 0x45457 (pg:177, off:145)-->phy:  1681 (frm:   6) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 33856 0x33856 (pg:132, off: 64)-->phy:  1856 (frm:   7) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 19498 0x19498 (pg: 76, off: 42)-->phy:  2090 (frm:   8) (prv:  16)--> val:   19 == value:   19 --  +    HIT!
+log: 17661 0x17661 (pg: 68, off:253)-->phy:  2557 (frm:   9) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 63829 0x63829 (pg:249, off: 85)-->phy:  2645 (frm:  10) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 42034 0x42034 (pg:164, off: 50)-->phy:  2866 (frm:  11) (prv:  16)--> val:   41 == value:   41 --  +    HIT!
+log: 28928 0x28928 (pg:113, off:  0)-->phy:  3072 (frm:  12) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 30711 0x30711 (pg:119, off:247)-->phy:  3575 (frm:  13) (prv:  16)--> val:   -3 == value:   -3 --  +    HIT!
+log:  8800 0x8800 (pg: 34, off: 96)-->phy:  3680 (frm:  14) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 52335 0x52335 (pg:204, off:111)-->phy:  3951 (frm:  15) (prv:  16)--> val:   27 == value:   27 --  +    HIT!
+log: 38775 0x38775 (pg:151, off:119)-->phy:  4215 (frm:  16) (prv:  16)--> val:  -35 == value:  -35 --  + ----> pg_fault
+log: 52704 0x52704 (pg:205, off:224)-->phy:   224 (frm:   0) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 24380 0x24380 (pg: 95, off: 60)-->phy:   316 (frm:   1) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 19602 0x19602 (pg: 76, off:146)-->phy:  2194 (frm:   8) (prv:  16)--> val:   19 == value:   19 --  +    HIT!
+log: 57998 0x57998 (pg:226, off:142)-->phy:   654 (frm:   2) (prv:  16)--> val:   56 == value:   56 --  +    HIT!
+log:  2919 0x2919 (pg: 11, off:103)-->phy:   871 (frm:   3) (prv:  16)--> val:  -39 == value:  -39 --  +    HIT!
+log:  8362 0x8362 (pg: 32, off:170)-->phy:  1194 (frm:   4) (prv:  16)--> val:    8 == value:    8 --  +    HIT!
+
+log: 17884 0x17884 (pg: 69, off:220)-->phy:  1500 (frm:   5) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 45737 0x45737 (pg:178, off:169)-->phy:  1705 (frm:   6) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 47894 0x47894 (pg:187, off: 22)-->phy:  1814 (frm:   7) (prv:  16)--> val:   46 == value:   46 --  +    HIT!
+log: 59667 0x59667 (pg:233, off: 19)-->phy:  2067 (frm:   8) (prv:  16)--> val:   68 == value:   68 --  +    HIT!
+log: 10385 0x10385 (pg: 40, off:145)-->phy:  2449 (frm:   9) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 52782 0x52782 (pg:206, off: 46)-->phy:  2606 (frm:  10) (prv:  16)--> val:   51 == value:   51 --  +    HIT!
+log: 64416 0x64416 (pg:251, off:160)-->phy:  2976 (frm:  11) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 40946 0x40946 (pg:159, off:242)-->phy:  3314 (frm:  12) (prv:  16)--> val:   39 == value:   39 --  +    HIT!
+log: 16778 0x16778 (pg: 65, off:138)-->phy:  3466 (frm:  13) (prv:  16)--> val:   16 == value:   16 --  +    HIT!
+log: 27159 0x27159 (pg:106, off: 23)-->phy:  3607 (frm:  14) (prv:  16)--> val: -123 == value: -123 --  +    HIT!
+
+log: 24324 0x24324 (pg: 95, off:  4)-->phy:   260 (frm:   1) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 32450 0x32450 (pg:126, off:194)-->phy:  4034 (frm:  15) (prv:  16)--> val:   31 == value:   31 --  +    HIT!
+log:  9108 0x9108 (pg: 35, off:148)-->phy:  4244 (frm:  16) (prv:  16)--> val:    0 == value:    0 --  + ----> pg_fault
+log: 65305 0x65305 (pg:255, off: 25)-->phy:    25 (frm:   0) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 19575 0x19575 (pg: 76, off:119)-->phy:   375 (frm:   1) (prv:  16)--> val:   29 == value:   29 --  +    HIT!
+
+log: 11117 0x11117 (pg: 43, off:109)-->phy:   621 (frm:   2) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 65170 0x65170 (pg:254, off:146)-->phy:   914 (frm:   3) (prv:  16)--> val:   63 == value:   63 --  +    HIT!
+log: 58013 0x58013 (pg:226, off:157)-->phy:  1181 (frm:   4) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 61676 0x61676 (pg:240, off:236)-->phy:  1516 (frm:   5) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 63510 0x63510 (pg:248, off: 22)-->phy:  1558 (frm:   6) (prv:  16)--> val:   62 == value:   62 --  +    HIT!
+
+log: 17458 0x17458 (pg: 68, off: 50)-->phy:  1842 (frm:   7) (prv:  16)--> val:   17 == value:   17 --  +    HIT!
+log: 54675 0x54675 (pg:213, off:147)-->phy:  2195 (frm:   8) (prv:  16)--> val:  100 == value:  100 --  +    HIT!
+log:  1713 0x1713 (pg:  6, off:177)-->phy:  2481 (frm:   9) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 55105 0x55105 (pg:215, off: 65)-->phy:  2625 (frm:  10) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 65321 0x65321 (pg:255, off: 41)-->phy:    41 (frm:   0) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 45278 0x45278 (pg:176, off:222)-->phy:  3038 (frm:  11) (prv:  16)--> val:   44 == value:   44 --  +    HIT!
+log: 26256 0x26256 (pg:102, off:144)-->phy:  3216 (frm:  12) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 64198 0x64198 (pg:250, off:198)-->phy:  3526 (frm:  13) (prv:  16)--> val:   62 == value:   62 --  +    HIT!
+log: 29441 0x29441 (pg:115, off:  1)-->phy:  3585 (frm:  14) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  1928 0x1928 (pg:  7, off:136)-->phy:  3976 (frm:  15) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 39425 0x39425 (pg:154, off:  1)-->phy:  4097 (frm:  16) (prv:  16)--> val:    0 == value:    0 --  + ----> pg_fault
+log: 32000 0x32000 (pg:125, off:  0)-->phy:     0 (frm:   0) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 28549 0x28549 (pg:111, off:133)-->phy:   389 (frm:   1) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 46295 0x46295 (pg:180, off:215)-->phy:   727 (frm:   2) (prv:  16)--> val:   53 == value:   53 --  +    HIT!
+log: 22772 0x22772 (pg: 88, off:244)-->phy:  1012 (frm:   3) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 58228 0x58228 (pg:227, off:116)-->phy:  1140 (frm:   4) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 63525 0x63525 (pg:248, off: 37)-->phy:  1573 (frm:   6) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 32602 0x32602 (pg:127, off: 90)-->phy:  1370 (frm:   5) (prv:  16)--> val:   31 == value:   31 --  +    HIT!
+log: 46195 0x46195 (pg:180, off:115)-->phy:   627 (frm:   2) (prv:  16)--> val:   28 == value:   28 --  +    HIT!
+log: 55849 0x55849 (pg:218, off: 41)-->phy:  1577 (frm:   6) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 46454 0x46454 (pg:181, off:118)-->phy:  1910 (frm:   7) (prv:  16)--> val:   45 == value:   45 --  +    HIT!
+log:  7487 0x7487 (pg: 29, off: 63)-->phy:  2111 (frm:   8) (prv:  16)--> val:   79 == value:   79 --  +    HIT!
+log: 33879 0x33879 (pg:132, off: 87)-->phy:  2391 (frm:   9) (prv:  16)--> val:   21 == value:   21 --  +    HIT!
+log: 42004 0x42004 (pg:164, off: 20)-->phy:  2580 (frm:  10) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  8599 0x8599 (pg: 33, off:151)-->phy:  2967 (frm:  11) (prv:  16)--> val:  101 == value:  101 --  +    HIT!
+
+log: 18641 0x18641 (pg: 72, off:209)-->phy:  3281 (frm:  12) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 49015 0x49015 (pg:191, off:119)-->phy:  3447 (frm:  13) (prv:  16)--> val:  -35 == value:  -35 --  +    HIT!
+log: 26830 0x26830 (pg:104, off:206)-->phy:  3790 (frm:  14) (prv:  16)--> val:   26 == value:   26 --  +    HIT!
+log: 34754 0x34754 (pg:135, off:194)-->phy:  4034 (frm:  15) (prv:  16)--> val:   33 == value:   33 --  +    HIT!
+log: 14668 0x14668 (pg: 57, off: 76)-->phy:  4172 (frm:  16) (prv:  16)--> val:    0 == value:    0 --  + ----> pg_fault
+
+log: 38362 0x38362 (pg:149, off:218)-->phy:   218 (frm:   0) (prv:  16)--> val:   37 == value:   37 --  +    HIT!
+log: 38791 0x38791 (pg:151, off:135)-->phy:   391 (frm:   1) (prv:  16)--> val:  -31 == value:  -31 --  +    HIT!
+log:  4171 0x4171 (pg: 16, off: 75)-->phy:   587 (frm:   2) (prv:  16)--> val:   18 == value:   18 --  +    HIT!
+log: 45975 0x45975 (pg:179, off:151)-->phy:   919 (frm:   3) (prv:  16)--> val:  -27 == value:  -27 --  +    HIT!
+log: 14623 0x14623 (pg: 57, off: 31)-->phy:  4127 (frm:  16) (prv:  16)--> val:   71 == value:   71 --  + ----> pg_fault
+
+log: 62393 0x62393 (pg:243, off:185)-->phy:  1209 (frm:   4) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 64658 0x64658 (pg:252, off:146)-->phy:  1426 (frm:   5) (prv:  16)--> val:   63 == value:   63 --  +    HIT!
+log: 10963 0x10963 (pg: 42, off:211)-->phy:  1747 (frm:   6) (prv:  16)--> val:  -76 == value:  -76 --  +    HIT!
+log:  9058 0x9058 (pg: 35, off: 98)-->phy:  1890 (frm:   7) (prv:  16)--> val:    8 == value:    8 --  +    HIT!
+log: 51031 0x51031 (pg:199, off: 87)-->phy:  2135 (frm:   8) (prv:  16)--> val:  -43 == value:  -43 --  +    HIT!
+
+log: 32425 0x32425 (pg:126, off:169)-->phy:  2473 (frm:   9) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 45483 0x45483 (pg:177, off:171)-->phy:  2731 (frm:  10) (prv:  16)--> val:  106 == value:  106 --  +    HIT!
+log: 44611 0x44611 (pg:174, off: 67)-->phy:  2883 (frm:  11) (prv:  16)--> val: -112 == value: -112 --  +    HIT!
+log: 63664 0x63664 (pg:248, off:176)-->phy:  3248 (frm:  12) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 54920 0x54920 (pg:214, off:136)-->phy:  3464 (frm:  13) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log:  7663 0x7663 (pg: 29, off:239)-->phy:  3823 (frm:  14) (prv:  16)--> val:  123 == value:  123 --  +    HIT!
+log: 56480 0x56480 (pg:220, off:160)-->phy:  4000 (frm:  15) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  1489 0x1489 (pg:  5, off:209)-->phy:  4305 (frm:  16) (prv:  16)--> val:    0 == value:    0 --  + ----> pg_fault
+log: 28438 0x28438 (pg:111, off: 22)-->phy:    22 (frm:   0) (prv:  16)--> val:   27 == value:   27 --  +    HIT!
+log: 65449 0x65449 (pg:255, off:169)-->phy:   425 (frm:   1) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 12441 0x12441 (pg: 48, off:153)-->phy:   665 (frm:   2) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 58530 0x58530 (pg:228, off:162)-->phy:   930 (frm:   3) (prv:  16)--> val:   57 == value:   57 --  +    HIT!
+log: 63570 0x63570 (pg:248, off: 82)-->phy:  3154 (frm:  12) (prv:  16)--> val:   62 == value:   62 --  +    HIT!
+log: 26251 0x26251 (pg:102, off:139)-->phy:  1163 (frm:   4) (prv:  16)--> val:  -94 == value:  -94 --  +    HIT!
+log: 15972 0x15972 (pg: 62, off:100)-->phy:  1380 (frm:   5) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 35826 0x35826 (pg:139, off:242)-->phy:  1778 (frm:   6) (prv:  16)--> val:   34 == value:   34 --  +    HIT!
+log:  5491 0x5491 (pg: 21, off:115)-->phy:  1907 (frm:   7) (prv:  16)--> val:   92 == value:   92 --  +    HIT!
+log: 54253 0x54253 (pg:211, off:237)-->phy:  2285 (frm:   8) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 49655 0x49655 (pg:193, off:247)-->phy:  2551 (frm:   9) (prv:  16)--> val:  125 == value:  125 --  +    HIT!
+log:  5868 0x5868 (pg: 22, off:236)-->phy:  2796 (frm:  10) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 20163 0x20163 (pg: 78, off:195)-->phy:  3011 (frm:  11) (prv:  16)--> val:  -80 == value:  -80 --  +    HIT!
+log: 51079 0x51079 (pg:199, off:135)-->phy:  3207 (frm:  12) (prv:  16)--> val:  -31 == value:  -31 --  +    HIT!
+log: 21398 0x21398 (pg: 83, off:150)-->phy:  3478 (frm:  13) (prv:  16)--> val:   20 == value:   20 --  +    HIT!
+log: 32756 0x32756 (pg:127, off:244)-->phy:  3828 (frm:  14) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 64196 0x64196 (pg:250, off:196)-->phy:  4036 (frm:  15) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 43218 0x43218 (pg:168, off:210)-->phy:  4306 (frm:  16) (prv:  16)--> val:   42 == value:   42 --  + ----> pg_fault
+log: 21583 0x21583 (pg: 84, off: 79)-->phy:    79 (frm:   0) (prv:  16)--> val:   19 == value:   19 --  +    HIT!
+log: 25086 0x25086 (pg: 97, off:254)-->phy:   510 (frm:   1) (prv:  16)--> val:   24 == value:   24 --  +    HIT!
+log: 45515 0x45515 (pg:177, off:203)-->phy:   715 (frm:   2) (prv:  16)--> val:  114 == value:  114 --  +    HIT!
+log: 12893 0x12893 (pg: 50, off: 93)-->phy:   861 (frm:   3) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 22914 0x22914 (pg: 89, off:130)-->phy:  1154 (frm:   4) (prv:  16)--> val:   22 == value:   22 --  +    HIT!
+log: 58969 0x58969 (pg:230, off: 89)-->phy:  1369 (frm:   5) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 20094 0x20094 (pg: 78, off:126)-->phy:  2942 (frm:  11) (prv:  16)--> val:   19 == value:   19 --  +    HIT!
+log: 13730 0x13730 (pg: 53, off:162)-->phy:  1698 (frm:   6) (prv:  16)--> val:   13 == value:   13 --  +    HIT!
+log: 44059 0x44059 (pg:172, off: 27)-->phy:  1819 (frm:   7) (prv:  16)--> val:    6 == value:    6 --  +    HIT!
+
+log: 28931 0x28931 (pg:113, off:  3)-->phy:  2051 (frm:   8) (prv:  16)--> val:   64 == value:   64 --  +    HIT!
+log: 13533 0x13533 (pg: 52, off:221)-->phy:  2525 (frm:   9) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 33134 0x33134 (pg:129, off:110)-->phy:  2670 (frm:  10) (prv:  16)--> val:   32 == value:   32 --  +    HIT!
+log: 28483 0x28483 (pg:111, off: 67)-->phy:  2883 (frm:  11) (prv:  16)--> val:  -48 == value:  -48 --  +    HIT!
+log:  1220 0x1220 (pg:  4, off:196)-->phy:  3268 (frm:  12) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 38174 0x38174 (pg:149, off: 30)-->phy:  3358 (frm:  13) (prv:  16)--> val:   37 == value:   37 --  +    HIT!
+log: 53502 0x53502 (pg:208, off:254)-->phy:  3838 (frm:  14) (prv:  16)--> val:   52 == value:   52 --  +    HIT!
+log: 43328 0x43328 (pg:169, off: 64)-->phy:  3904 (frm:  15) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  4970 0x4970 (pg: 19, off:106)-->phy:  4202 (frm:  16) (prv:  16)--> val:    4 == value:    4 --  + ----> pg_fault
+log:  8090 0x8090 (pg: 31, off:154)-->phy:   154 (frm:   0) (prv:  16)--> val:    7 == value:    7 --  +    HIT!
+
+log:  2661 0x2661 (pg: 10, off:101)-->phy:   357 (frm:   1) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 53903 0x53903 (pg:210, off:143)-->phy:   655 (frm:   2) (prv:  16)--> val:  -93 == value:  -93 --  +    HIT!
+log: 11025 0x11025 (pg: 43, off: 17)-->phy:   785 (frm:   3) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 26627 0x26627 (pg:104, off:  3)-->phy:  1027 (frm:   4) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 18117 0x18117 (pg: 70, off:197)-->phy:  1477 (frm:   5) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 14505 0x14505 (pg: 56, off:169)-->phy:  1705 (frm:   6) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 61528 0x61528 (pg:240, off: 88)-->phy:  1880 (frm:   7) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 20423 0x20423 (pg: 79, off:199)-->phy:  2247 (frm:   8) (prv:  16)--> val:  -15 == value:  -15 --  +    HIT!
+log: 26962 0x26962 (pg:105, off: 82)-->phy:  2386 (frm:   9) (prv:  16)--> val:   26 == value:   26 --  +    HIT!
+log: 36392 0x36392 (pg:142, off: 40)-->phy:  2600 (frm:  10) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 11365 0x11365 (pg: 44, off:101)-->phy:  2917 (frm:  11) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 50882 0x50882 (pg:198, off:194)-->phy:  3266 (frm:  12) (prv:  16)--> val:   49 == value:   49 --  +    HIT!
+log: 41668 0x41668 (pg:162, off:196)-->phy:  3524 (frm:  13) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 30497 0x30497 (pg:119, off: 33)-->phy:  3617 (frm:  14) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 36216 0x36216 (pg:141, off:120)-->phy:  3960 (frm:  15) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log:  5619 0x5619 (pg: 21, off:243)-->phy:  4339 (frm:  16) (prv:  16)--> val:  124 == value:  124 --  + ----> pg_fault
+log: 36983 0x36983 (pg:144, off:119)-->phy:   119 (frm:   0) (prv:  16)--> val:   29 == value:   29 --  +    HIT!
+log: 59557 0x59557 (pg:232, off:165)-->phy:   421 (frm:   1) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 36663 0x36663 (pg:143, off: 55)-->phy:   567 (frm:   2) (prv:  16)--> val:  -51 == value:  -51 --  +    HIT!
+log: 36436 0x36436 (pg:142, off: 84)-->phy:  2644 (frm:  10) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 37057 0x37057 (pg:144, off:193)-->phy:   193 (frm:   0) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 23585 0x23585 (pg: 92, off: 33)-->phy:   801 (frm:   3) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 58791 0x58791 (pg:229, off:167)-->phy:  1191 (frm:   4) (prv:  16)--> val:  105 == value:  105 --  +    HIT!
+log: 46666 0x46666 (pg:182, off: 74)-->phy:  1354 (frm:   5) (prv:  16)--> val:   45 == value:   45 --  +    HIT!
+log: 64475 0x64475 (pg:251, off:219)-->phy:  1755 (frm:   6) (prv:  16)--> val:  -10 == value:  -10 --  +    HIT!
+
+log: 21615 0x21615 (pg: 84, off:111)-->phy:  1903 (frm:   7) (prv:  16)--> val:   27 == value:   27 --  +    HIT!
+log: 41090 0x41090 (pg:160, off:130)-->phy:  2178 (frm:   8) (prv:  16)--> val:   40 == value:   40 --  +    HIT!
+log:  1771 0x1771 (pg:  6, off:235)-->phy:  2539 (frm:   9) (prv:  16)--> val:  -70 == value:  -70 --  +    HIT!
+log: 47513 0x47513 (pg:185, off:153)-->phy:  2713 (frm:  10) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 39338 0x39338 (pg:153, off:170)-->phy:  2986 (frm:  11) (prv:  16)--> val:   38 == value:   38 --  +    HIT!
+
+log:  1390 0x1390 (pg:  5, off:110)-->phy:  3182 (frm:  12) (prv:  16)--> val:    1 == value:    1 --  +    HIT!
+log: 38772 0x38772 (pg:151, off:116)-->phy:  3444 (frm:  13) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 58149 0x58149 (pg:227, off: 37)-->phy:  3621 (frm:  14) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  7196 0x7196 (pg: 28, off: 28)-->phy:  3868 (frm:  15) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  9123 0x9123 (pg: 35, off:163)-->phy:  4259 (frm:  16) (prv:  16)--> val:  -24 == value:  -24 --  + ----> pg_fault
+
+log:  7491 0x7491 (pg: 29, off: 67)-->phy:    67 (frm:   0) (prv:  16)--> val:   80 == value:   80 --  +    HIT!
+log: 62616 0x62616 (pg:244, off:152)-->phy:   408 (frm:   1) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 15436 0x15436 (pg: 60, off: 76)-->phy:   588 (frm:   2) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 17491 0x17491 (pg: 68, off: 83)-->phy:   851 (frm:   3) (prv:  16)--> val:   20 == value:   20 --  +    HIT!
+log: 53656 0x53656 (pg:209, off:152)-->phy:  1176 (frm:   4) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 26449 0x26449 (pg:103, off: 81)-->phy:  1361 (frm:   5) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 34935 0x34935 (pg:136, off:119)-->phy:  1655 (frm:   6) (prv:  16)--> val:   29 == value:   29 --  +    HIT!
+log: 19864 0x19864 (pg: 77, off:152)-->phy:  1944 (frm:   7) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 51388 0x51388 (pg:200, off:188)-->phy:  2236 (frm:   8) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 15155 0x15155 (pg: 59, off: 51)-->phy:  2355 (frm:   9) (prv:  16)--> val:  -52 == value:  -52 --  +    HIT!
+
+log: 64775 0x64775 (pg:253, off:  7)-->phy:  2567 (frm:  10) (prv:  16)--> val:   65 == value:   65 --  +    HIT!
+log: 47969 0x47969 (pg:187, off: 97)-->phy:  2913 (frm:  11) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 16315 0x16315 (pg: 63, off:187)-->phy:  3259 (frm:  12) (prv:  16)--> val:  -18 == value:  -18 --  +    HIT!
+log:  1342 0x1342 (pg:  5, off: 62)-->phy:  3390 (frm:  13) (prv:  16)--> val:    1 == value:    1 --  +    HIT!
+log: 51185 0x51185 (pg:199, off:241)-->phy:  3825 (frm:  14) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log:  6043 0x6043 (pg: 23, off:155)-->phy:  3995 (frm:  15) (prv:  16)--> val:  -26 == value:  -26 --  +    HIT!
+log: 21398 0x21398 (pg: 83, off:150)-->phy:  4246 (frm:  16) (prv:  16)--> val:   20 == value:   20 --  + ----> pg_fault
+log:  3273 0x3273 (pg: 12, off:201)-->phy:   201 (frm:   0) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  9370 0x9370 (pg: 36, off:154)-->phy:   410 (frm:   1) (prv:  16)--> val:    9 == value:    9 --  +    HIT!
+log: 35463 0x35463 (pg:138, off:135)-->phy:   647 (frm:   2) (prv:  16)--> val:  -95 == value:  -95 --  +    HIT!
+
+log: 28205 0x28205 (pg:110, off: 45)-->phy:   813 (frm:   3) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  2351 0x2351 (pg:  9, off: 47)-->phy:  1071 (frm:   4) (prv:  16)--> val:   75 == value:   75 --  +    HIT!
+log: 28999 0x28999 (pg:113, off: 71)-->phy:  1351 (frm:   5) (prv:  16)--> val:   81 == value:   81 --  +    HIT!
+log: 47699 0x47699 (pg:186, off: 83)-->phy:  1619 (frm:   6) (prv:  16)--> val: -108 == value: -108 --  +    HIT!
+log: 46870 0x46870 (pg:183, off: 22)-->phy:  1814 (frm:   7) (prv:  16)--> val:   45 == value:   45 --  +    HIT!
+
+log: 22311 0x22311 (pg: 87, off: 39)-->phy:  2087 (frm:   8) (prv:  16)--> val:  -55 == value:  -55 --  +    HIT!
+log: 22124 0x22124 (pg: 86, off:108)-->phy:  2412 (frm:   9) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 22427 0x22427 (pg: 87, off:155)-->phy:  2203 (frm:   8) (prv:  16)--> val:  -26 == value:  -26 --  +    HIT!
+log: 49344 0x49344 (pg:192, off:192)-->phy:  2752 (frm:  10) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 23224 0x23224 (pg: 90, off:184)-->phy:  3000 (frm:  11) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log:  5514 0x5514 (pg: 21, off:138)-->phy:  3210 (frm:  12) (prv:  16)--> val:    5 == value:    5 --  +    HIT!
+log: 20504 0x20504 (pg: 80, off: 24)-->phy:  3352 (frm:  13) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:   376 0x0376 (pg:  1, off:120)-->phy:  3704 (frm:  14) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  2014 0x2014 (pg:  7, off:222)-->phy:  4062 (frm:  15) (prv:  16)--> val:    1 == value:    1 --  +    HIT!
+log: 38700 0x38700 (pg:151, off: 44)-->phy:  4140 (frm:  16) (prv:  16)--> val:    0 == value:    0 --  + ----> pg_fault
+
+log: 13098 0x13098 (pg: 51, off: 42)-->phy:    42 (frm:   0) (prv:  16)--> val:   12 == value:   12 --  +    HIT!
+log: 62435 0x62435 (pg:243, off:227)-->phy:   483 (frm:   1) (prv:  16)--> val:   -8 == value:   -8 --  +    HIT!
+log: 48046 0x48046 (pg:187, off:174)-->phy:   686 (frm:   2) (prv:  16)--> val:   46 == value:   46 --  +    HIT!
+log: 63464 0x63464 (pg:247, off:232)-->phy:  1000 (frm:   3) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 12798 0x12798 (pg: 49, off:254)-->phy:  1278 (frm:   4) (prv:  16)--> val:   12 == value:   12 --  +    HIT!
+
+log: 51178 0x51178 (pg:199, off:234)-->phy:  1514 (frm:   5) (prv:  16)--> val:   49 == value:   49 --  +    HIT!
+log:  8627 0x8627 (pg: 33, off:179)-->phy:  1715 (frm:   6) (prv:  16)--> val:  108 == value:  108 --  +    HIT!
+log: 27083 0x27083 (pg:105, off:203)-->phy:  1995 (frm:   7) (prv:  16)--> val:  114 == value:  114 --  +    HIT!
+log: 47198 0x47198 (pg:184, off: 94)-->phy:  2142 (frm:   8) (prv:  16)--> val:   46 == value:   46 --  +    HIT!
+log: 44021 0x44021 (pg:171, off:245)-->phy:  2549 (frm:   9) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 32792 0x32792 (pg:128, off: 24)-->phy:  2584 (frm:  10) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 43996 0x43996 (pg:171, off:220)-->phy:  2524 (frm:   9) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 41126 0x41126 (pg:160, off:166)-->phy:  2982 (frm:  11) (prv:  16)--> val:   40 == value:   40 --  +    HIT!
+log: 64244 0x64244 (pg:250, off:244)-->phy:  3316 (frm:  12) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 37047 0x37047 (pg:144, off:183)-->phy:  3511 (frm:  13) (prv:  16)--> val:   45 == value:   45 --  +    HIT!
+
+log: 60281 0x60281 (pg:235, off:121)-->phy:  3705 (frm:  14) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 52904 0x52904 (pg:206, off:168)-->phy:  4008 (frm:  15) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  7768 0x7768 (pg: 30, off: 88)-->phy:  4184 (frm:  16) (prv:  16)--> val:    0 == value:    0 --  + ----> pg_fault
+log: 55359 0x55359 (pg:216, off: 63)-->phy:    63 (frm:   0) (prv:  16)--> val:   15 == value:   15 --  +    HIT!
+log:  3230 0x3230 (pg: 12, off:158)-->phy:   414 (frm:   1) (prv:  16)--> val:    3 == value:    3 --  +    HIT!
+
+log: 44813 0x44813 (pg:175, off: 13)-->phy:   525 (frm:   2) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  4116 0x4116 (pg: 16, off: 20)-->phy:   788 (frm:   3) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 65222 0x65222 (pg:254, off:198)-->phy:  1222 (frm:   4) (prv:  16)--> val:   63 == value:   63 --  +    HIT!
+log: 28083 0x28083 (pg:109, off:179)-->phy:  1459 (frm:   5) (prv:  16)--> val:  108 == value:  108 --  +    HIT!
+log: 60660 0x60660 (pg:236, off:244)-->phy:  1780 (frm:   6) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log:    39 0x0039 (pg:  0, off: 39)-->phy:  1831 (frm:   7) (prv:  16)--> val:    9 == value:    9 --  +    HIT!
+log:   328 0x0328 (pg:  1, off: 72)-->phy:  2120 (frm:   8) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 47868 0x47868 (pg:186, off:252)-->phy:  2556 (frm:   9) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 13009 0x13009 (pg: 50, off:209)-->phy:  2769 (frm:  10) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 22378 0x22378 (pg: 87, off:106)-->phy:  2922 (frm:  11) (prv:  16)--> val:   21 == value:   21 --  +    HIT!
+
+log: 39304 0x39304 (pg:153, off:136)-->phy:  3208 (frm:  12) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 11171 0x11171 (pg: 43, off:163)-->phy:  3491 (frm:  13) (prv:  16)--> val:  -24 == value:  -24 --  +    HIT!
+log:  8079 0x8079 (pg: 31, off:143)-->phy:  3727 (frm:  14) (prv:  16)--> val:  -29 == value:  -29 --  +    HIT!
+log: 52879 0x52879 (pg:206, off:143)-->phy:  3983 (frm:  15) (prv:  16)--> val:  -93 == value:  -93 --  +    HIT!
+log:  5123 0x5123 (pg: 20, off:  3)-->phy:  3843 (frm:  15) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log:  4356 0x4356 (pg: 17, off:  4)-->phy:  4100 (frm:  16) (prv:  16)--> val:    0 == value:    0 --  + ----> pg_fault
+log: 45745 0x45745 (pg:178, off:177)-->phy:   177 (frm:   0) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 32952 0x32952 (pg:128, off:184)-->phy:   440 (frm:   1) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  4657 0x4657 (pg: 18, off: 49)-->phy:   561 (frm:   2) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 24142 0x24142 (pg: 94, off: 78)-->phy:   846 (frm:   3) (prv:  16)--> val:   23 == value:   23 --  +    HIT!
+
+log: 23319 0x23319 (pg: 91, off: 23)-->phy:  1047 (frm:   4) (prv:  16)--> val:  -59 == value:  -59 --  +    HIT!
+log: 13607 0x13607 (pg: 53, off: 39)-->phy:  1319 (frm:   5) (prv:  16)--> val:   73 == value:   73 --  +    HIT!
+log: 46304 0x46304 (pg:180, off:224)-->phy:  1760 (frm:   6) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 17677 0x17677 (pg: 69, off: 13)-->phy:  1805 (frm:   7) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 59691 0x59691 (pg:233, off: 43)-->phy:  2091 (frm:   8) (prv:  16)--> val:   74 == value:   74 --  +    HIT!
+
+log: 50967 0x50967 (pg:199, off: 23)-->phy:  2327 (frm:   9) (prv:  16)--> val:  -59 == value:  -59 --  +    HIT!
+log:  7817 0x7817 (pg: 30, off:137)-->phy:  2697 (frm:  10) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  8545 0x8545 (pg: 33, off: 97)-->phy:  2913 (frm:  11) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 55297 0x55297 (pg:216, off:  1)-->phy:  3073 (frm:  12) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 52954 0x52954 (pg:206, off:218)-->phy:  3546 (frm:  13) (prv:  16)--> val:   51 == value:   51 --  +    HIT!
+
+log: 39720 0x39720 (pg:155, off: 40)-->phy:  3624 (frm:  14) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 18455 0x18455 (pg: 72, off: 23)-->phy:  3863 (frm:  15) (prv:  16)--> val:    5 == value:    5 --  +    HIT!
+log: 30349 0x30349 (pg:118, off:141)-->phy:  4237 (frm:  16) (prv:  16)--> val:    0 == value:    0 --  + ----> pg_fault
+log: 63270 0x63270 (pg:247, off: 38)-->phy:    38 (frm:   0) (prv:  16)--> val:   61 == value:   61 --  +    HIT!
+log: 27156 0x27156 (pg:106, off: 20)-->phy:   276 (frm:   1) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 20614 0x20614 (pg: 80, off:134)-->phy:   646 (frm:   2) (prv:  16)--> val:   20 == value:   20 --  +    HIT!
+log: 19372 0x19372 (pg: 75, off:172)-->phy:   940 (frm:   3) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 48689 0x48689 (pg:190, off: 49)-->phy:  1073 (frm:   4) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 49386 0x49386 (pg:192, off:234)-->phy:  1514 (frm:   5) (prv:  16)--> val:   48 == value:   48 --  +    HIT!
+log: 50584 0x50584 (pg:197, off:152)-->phy:  1688 (frm:   6) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 51936 0x51936 (pg:202, off:224)-->phy:  2016 (frm:   7) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 34705 0x34705 (pg:135, off:145)-->phy:  2193 (frm:   8) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 13653 0x13653 (pg: 53, off: 85)-->phy:  2389 (frm:   9) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 50077 0x50077 (pg:195, off:157)-->phy:  2717 (frm:  10) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 54518 0x54518 (pg:212, off:246)-->phy:  3062 (frm:  11) (prv:  16)--> val:   53 == value:   53 --  +    HIT!
+
+log: 41482 0x41482 (pg:162, off: 10)-->phy:  3082 (frm:  12) (prv:  16)--> val:   40 == value:   40 --  +    HIT!
+log:  4169 0x4169 (pg: 16, off: 73)-->phy:  3401 (frm:  13) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 36118 0x36118 (pg:141, off: 22)-->phy:  3606 (frm:  14) (prv:  16)--> val:   35 == value:   35 --  +    HIT!
+log:  9584 0x9584 (pg: 37, off:112)-->phy:  3952 (frm:  15) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 18490 0x18490 (pg: 72, off: 58)-->phy:  4154 (frm:  16) (prv:  16)--> val:   18 == value:   18 --  + ----> pg_fault
+
+log: 55420 0x55420 (pg:216, off:124)-->phy:   124 (frm:   0) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  5708 0x5708 (pg: 22, off: 76)-->phy:   332 (frm:   1) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 23506 0x23506 (pg: 91, off:210)-->phy:   722 (frm:   2) (prv:  16)--> val:   22 == value:   22 --  +    HIT!
+log: 15391 0x15391 (pg: 60, off: 31)-->phy:   799 (frm:   3) (prv:  16)--> val:    7 == value:    7 --  +    HIT!
+log: 36368 0x36368 (pg:142, off: 16)-->phy:  1040 (frm:   4) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 38976 0x38976 (pg:152, off: 64)-->phy:  1344 (frm:   5) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 50406 0x50406 (pg:196, off:230)-->phy:  1766 (frm:   6) (prv:  16)--> val:   49 == value:   49 --  +    HIT!
+log: 49236 0x49236 (pg:192, off: 84)-->phy:  1876 (frm:   7) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 65035 0x65035 (pg:254, off: 11)-->phy:  2059 (frm:   8) (prv:  16)--> val: -126 == value: -126 --  +    HIT!
+log: 30120 0x30120 (pg:117, off:168)-->phy:  2472 (frm:   9) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 62551 0x62551 (pg:244, off: 87)-->phy:  2647 (frm:  10) (prv:  16)--> val:   21 == value:   21 --  +    HIT!
+log: 46809 0x46809 (pg:182, off:217)-->phy:  3033 (frm:  11) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 21687 0x21687 (pg: 84, off:183)-->phy:  3255 (frm:  12) (prv:  16)--> val:   45 == value:   45 --  +    HIT!
+log: 53839 0x53839 (pg:210, off: 79)-->phy:  3407 (frm:  13) (prv:  16)--> val: -109 == value: -109 --  +    HIT!
+log:  2098 0x2098 (pg:  8, off: 50)-->phy:  3634 (frm:  14) (prv:  16)--> val:    2 == value:    2 --  +    HIT!
+
+log: 12364 0x12364 (pg: 48, off: 76)-->phy:  3916 (frm:  15) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 45366 0x45366 (pg:177, off: 54)-->phy:  4150 (frm:  16) (prv:  16)--> val:   44 == value:   44 --  + ----> pg_fault
+log: 50437 0x50437 (pg:197, off:  5)-->phy:     5 (frm:   0) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 36675 0x36675 (pg:143, off: 67)-->phy:   323 (frm:   1) (prv:  16)--> val:  -48 == value:  -48 --  +    HIT!
+log: 55382 0x55382 (pg:216, off: 86)-->phy:   598 (frm:   2) (prv:  16)--> val:   54 == value:   54 --  +    HIT!
+
+log: 11846 0x11846 (pg: 46, off: 70)-->phy:   838 (frm:   3) (prv:  16)--> val:   11 == value:   11 --  +    HIT!
+log: 49127 0x49127 (pg:191, off:231)-->phy:  1255 (frm:   4) (prv:  16)--> val:   -7 == value:   -7 --  +    HIT!
+log: 19900 0x19900 (pg: 77, off:188)-->phy:  1468 (frm:   5) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 20554 0x20554 (pg: 80, off: 74)-->phy:  1610 (frm:   6) (prv:  16)--> val:   20 == value:   20 --  +    HIT!
+log: 19219 0x19219 (pg: 75, off: 19)-->phy:  1811 (frm:   7) (prv:  16)--> val:  -60 == value:  -60 --  +    HIT!
+
+log: 51483 0x51483 (pg:201, off: 27)-->phy:  2075 (frm:   8) (prv:  16)--> val:   70 == value:   70 --  +    HIT!
+log: 58090 0x58090 (pg:226, off:234)-->phy:  2538 (frm:   9) (prv:  16)--> val:   56 == value:   56 --  +    HIT!
+log: 39074 0x39074 (pg:152, off:162)-->phy:  2722 (frm:  10) (prv:  16)--> val:   38 == value:   38 --  +    HIT!
+log: 16060 0x16060 (pg: 62, off:188)-->phy:  3004 (frm:  11) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 10447 0x10447 (pg: 40, off:207)-->phy:  3279 (frm:  12) (prv:  16)--> val:   51 == value:   51 --  +    HIT!
+
+log: 54169 0x54169 (pg:211, off:153)-->phy:  3481 (frm:  13) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 20634 0x20634 (pg: 80, off:154)-->phy:  1690 (frm:   6) (prv:  16)--> val:   20 == value:   20 --  +    HIT!
+log: 57555 0x57555 (pg:224, off:211)-->phy:  3795 (frm:  14) (prv:  16)--> val:   52 == value:   52 --  +    HIT!
+log: 61210 0x61210 (pg:239, off: 26)-->phy:  3866 (frm:  15) (prv:  16)--> val:   59 == value:   59 --  +    HIT!
+log:   269 0x0269 (pg:  1, off: 13)-->phy:  4109 (frm:  16) (prv:  16)--> val:    0 == value:    0 --  + ----> pg_fault
+
+log: 33154 0x33154 (pg:129, off:130)-->phy:   130 (frm:   0) (prv:  16)--> val:   32 == value:   32 --  +    HIT!
+log: 64487 0x64487 (pg:251, off:231)-->phy:   487 (frm:   1) (prv:  16)--> val:   -7 == value:   -7 --  +    HIT!
+log: 61223 0x61223 (pg:239, off: 39)-->phy:  3879 (frm:  15) (prv:  16)--> val:  -55 == value:  -55 --  +    HIT!
+log: 47292 0x47292 (pg:184, off:188)-->phy:   700 (frm:   2) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 21852 0x21852 (pg: 85, off: 92)-->phy:   860 (frm:   3) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log:  5281 0x5281 (pg: 20, off:161)-->phy:  1185 (frm:   4) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 45912 0x45912 (pg:179, off: 88)-->phy:  1368 (frm:   5) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 32532 0x32532 (pg:127, off: 20)-->phy:  1556 (frm:   6) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 63067 0x63067 (pg:246, off: 91)-->phy:  1883 (frm:   7) (prv:  16)--> val: -106 == value: -106 --  +    HIT!
+log: 41683 0x41683 (pg:162, off:211)-->phy:  2259 (frm:   8) (prv:  16)--> val:  -76 == value:  -76 --  +    HIT!
+
+log: 20981 0x20981 (pg: 81, off:245)-->phy:  2549 (frm:   9) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 33881 0x33881 (pg:132, off: 89)-->phy:  2649 (frm:  10) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 41785 0x41785 (pg:163, off: 57)-->phy:  2873 (frm:  11) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  4580 0x4580 (pg: 17, off:228)-->phy:  3300 (frm:  12) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 41389 0x41389 (pg:161, off:173)-->phy:  3501 (frm:  13) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 28572 0x28572 (pg:111, off:156)-->phy:  3740 (frm:  14) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:   782 0x0782 (pg:  3, off: 14)-->phy:  3854 (frm:  15) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 30273 0x30273 (pg:118, off: 65)-->phy:  4161 (frm:  16) (prv:  16)--> val:    0 == value:    0 --  + ----> pg_fault
+log: 62267 0x62267 (pg:243, off: 59)-->phy:    59 (frm:   0) (prv:  16)--> val:  -50 == value:  -50 --  +    HIT!
+log: 17922 0x17922 (pg: 70, off:  2)-->phy:   258 (frm:   1) (prv:  16)--> val:   17 == value:   17 --  +    HIT!
+
+log: 63238 0x63238 (pg:247, off:  6)-->phy:   518 (frm:   2) (prv:  16)--> val:   61 == value:   61 --  +    HIT!
+log:  3308 0x3308 (pg: 12, off:236)-->phy:  1004 (frm:   3) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 26545 0x26545 (pg:103, off:177)-->phy:  1201 (frm:   4) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 44395 0x44395 (pg:173, off:107)-->phy:  1387 (frm:   5) (prv:  16)--> val:   90 == value:   90 --  +    HIT!
+log: 39120 0x39120 (pg:152, off:208)-->phy:  1744 (frm:   6) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 21706 0x21706 (pg: 84, off:202)-->phy:  1994 (frm:   7) (prv:  16)--> val:   21 == value:   21 --  +    HIT!
+log:  7144 0x7144 (pg: 27, off:232)-->phy:  2280 (frm:   8) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 30244 0x30244 (pg:118, off: 36)-->phy:  4132 (frm:  16) (prv:  16)--> val:    0 == value:    0 --  + ----> pg_fault
+log:  3725 0x3725 (pg: 14, off:141)-->phy:  2445 (frm:   9) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 54632 0x54632 (pg:213, off:104)-->phy:  2664 (frm:  10) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 30574 0x30574 (pg:119, off:110)-->phy:  2926 (frm:  11) (prv:  16)--> val:   29 == value:   29 --  +    HIT!
+log:  8473 0x8473 (pg: 33, off: 25)-->phy:  3097 (frm:  12) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 12386 0x12386 (pg: 48, off: 98)-->phy:  3426 (frm:  13) (prv:  16)--> val:   12 == value:   12 --  +    HIT!
+log: 41114 0x41114 (pg:160, off:154)-->phy:  3738 (frm:  14) (prv:  16)--> val:   40 == value:   40 --  +    HIT!
+log: 57930 0x57930 (pg:226, off: 74)-->phy:  3914 (frm:  15) (prv:  16)--> val:   56 == value:   56 --  +    HIT!
+
+log: 15341 0x15341 (pg: 59, off:237)-->phy:  4333 (frm:  16) (prv:  16)--> val:    0 == value:    0 --  + ----> pg_fault
+log: 15598 0x15598 (pg: 60, off:238)-->phy:   238 (frm:   0) (prv:  16)--> val:   15 == value:   15 --  +    HIT!
+log: 59922 0x59922 (pg:234, off: 18)-->phy:   274 (frm:   1) (prv:  16)--> val:   58 == value:   58 --  +    HIT!
+log: 18226 0x18226 (pg: 71, off: 50)-->phy:   562 (frm:   2) (prv:  16)--> val:   17 == value:   17 --  +    HIT!
+log: 48162 0x48162 (pg:188, off: 34)-->phy:   802 (frm:   3) (prv:  16)--> val:   47 == value:   47 --  +    HIT!
+
+log: 41250 0x41250 (pg:161, off: 34)-->phy:  1058 (frm:   4) (prv:  16)--> val:   40 == value:   40 --  +    HIT!
+log:  1512 0x1512 (pg:  5, off:232)-->phy:  1512 (frm:   5) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  2546 0x2546 (pg:  9, off:242)-->phy:  1778 (frm:   6) (prv:  16)--> val:    2 == value:    2 --  +    HIT!
+log: 41682 0x41682 (pg:162, off:210)-->phy:  2002 (frm:   7) (prv:  16)--> val:   40 == value:   40 --  +    HIT!
+log:   322 0x0322 (pg:  1, off: 66)-->phy:  2114 (frm:   8) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log:   880 0x0880 (pg:  3, off:112)-->phy:  2416 (frm:   9) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 20891 0x20891 (pg: 81, off:155)-->phy:  2715 (frm:  10) (prv:  16)--> val:  102 == value:  102 --  +    HIT!
+log: 56604 0x56604 (pg:221, off: 28)-->phy:  2844 (frm:  11) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 40166 0x40166 (pg:156, off:230)-->phy:  3302 (frm:  12) (prv:  16)--> val:   39 == value:   39 --  +    HIT!
+log: 26791 0x26791 (pg:104, off:167)-->phy:  3495 (frm:  13) (prv:  16)--> val:   41 == value:   41 --  +    HIT!
+
+log: 44560 0x44560 (pg:174, off: 16)-->phy:  3600 (frm:  14) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 38698 0x38698 (pg:151, off: 42)-->phy:  3882 (frm:  15) (prv:  16)--> val:   37 == value:   37 --  +    HIT!
+log: 64127 0x64127 (pg:250, off:127)-->phy:  4223 (frm:  16) (prv:  16)--> val:  -97 == value:  -97 --  + ----> pg_fault
+log: 15028 0x15028 (pg: 58, off:180)-->phy:   180 (frm:   0) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 38669 0x38669 (pg:151, off: 13)-->phy:  3853 (frm:  15) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 45637 0x45637 (pg:178, off: 69)-->phy:   325 (frm:   1) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 43151 0x43151 (pg:168, off:143)-->phy:   655 (frm:   2) (prv:  16)--> val:   35 == value:   35 --  +    HIT!
+log:  9465 0x9465 (pg: 36, off:249)-->phy:  1017 (frm:   3) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  2498 0x2498 (pg:  9, off:194)-->phy:  1730 (frm:   6) (prv:  16)--> val:    2 == value:    2 --  +    HIT!
+log: 13978 0x13978 (pg: 54, off:154)-->phy:  1178 (frm:   4) (prv:  16)--> val:   13 == value:   13 --  +    HIT!
+
+log: 16326 0x16326 (pg: 63, off:198)-->phy:  1478 (frm:   5) (prv:  16)--> val:   15 == value:   15 --  +    HIT!
+log: 51442 0x51442 (pg:200, off:242)-->phy:  1778 (frm:   6) (prv:  16)--> val:   50 == value:   50 --  +    HIT!
+log: 34845 0x34845 (pg:136, off: 29)-->phy:  1821 (frm:   7) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 63667 0x63667 (pg:248, off:179)-->phy:  2227 (frm:   8) (prv:  16)--> val:   44 == value:   44 --  +    HIT!
+log: 39370 0x39370 (pg:153, off:202)-->phy:  2506 (frm:   9) (prv:  16)--> val:   38 == value:   38 --  +    HIT!
+
+log: 55671 0x55671 (pg:217, off:119)-->phy:  2679 (frm:  10) (prv:  16)--> val:   93 == value:   93 --  +    HIT!
+log: 64496 0x64496 (pg:251, off:240)-->phy:  3056 (frm:  11) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  7767 0x7767 (pg: 30, off: 87)-->phy:  3159 (frm:  12) (prv:  16)--> val: -107 == value: -107 --  +    HIT!
+log:  6283 0x6283 (pg: 24, off:139)-->phy:  3467 (frm:  13) (prv:  16)--> val:   34 == value:   34 --  +    HIT!
+log: 55884 0x55884 (pg:218, off: 76)-->phy:  3660 (frm:  14) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 61103 0x61103 (pg:238, off:175)-->phy:  4015 (frm:  15) (prv:  16)--> val:  -85 == value:  -85 --  +    HIT!
+log: 10184 0x10184 (pg: 39, off:200)-->phy:  4296 (frm:  16) (prv:  16)--> val:    0 == value:    0 --  + ----> pg_fault
+log: 39543 0x39543 (pg:154, off:119)-->phy:   119 (frm:   0) (prv:  16)--> val:  -99 == value:  -99 --  +    HIT!
+log:  9555 0x9555 (pg: 37, off: 83)-->phy:   339 (frm:   1) (prv:  16)--> val:   84 == value:   84 --  +    HIT!
+log: 13963 0x13963 (pg: 54, off:139)-->phy:  1163 (frm:   4) (prv:  16)--> val:  -94 == value:  -94 --  +    HIT!
+
+log: 58975 0x58975 (pg:230, off: 95)-->phy:   607 (frm:   2) (prv:  16)--> val: -105 == value: -105 --  +    HIT!
+log: 19537 0x19537 (pg: 76, off: 81)-->phy:   849 (frm:   3) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  6101 0x6101 (pg: 23, off:213)-->phy:  1237 (frm:   4) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 41421 0x41421 (pg:161, off:205)-->phy:  1485 (frm:   5) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 45502 0x45502 (pg:177, off:190)-->phy:  1726 (frm:   6) (prv:  16)--> val:   44 == value:   44 --  +    HIT!
+
+log: 29328 0x29328 (pg:114, off:144)-->phy:  1936 (frm:   7) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  8149 0x8149 (pg: 31, off:213)-->phy:  2261 (frm:   8) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 25450 0x25450 (pg: 99, off:106)-->phy:  2410 (frm:   9) (prv:  16)--> val:   24 == value:   24 --  +    HIT!
+log: 58944 0x58944 (pg:230, off: 64)-->phy:   576 (frm:   2) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 50666 0x50666 (pg:197, off:234)-->phy:  2794 (frm:  10) (prv:  16)--> val:   49 == value:   49 --  +    HIT!
+
+log: 23084 0x23084 (pg: 90, off: 44)-->phy:  2860 (frm:  11) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 36468 0x36468 (pg:142, off:116)-->phy:  3188 (frm:  12) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 33645 0x33645 (pg:131, off:109)-->phy:  3437 (frm:  13) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 25002 0x25002 (pg: 97, off:170)-->phy:  3754 (frm:  14) (prv:  16)--> val:   24 == value:   24 --  +    HIT!
+log: 53715 0x53715 (pg:209, off:211)-->phy:  4051 (frm:  15) (prv:  16)--> val:  116 == value:  116 --  +    HIT!
+
+log: 60173 0x60173 (pg:235, off: 13)-->phy:  4109 (frm:  16) (prv:  16)--> val:    0 == value:    0 --  + ----> pg_fault
+log: 46354 0x46354 (pg:181, off: 18)-->phy:    18 (frm:   0) (prv:  16)--> val:   45 == value:   45 --  +    HIT!
+log:  4708 0x4708 (pg: 18, off:100)-->phy:   356 (frm:   1) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 28208 0x28208 (pg:110, off: 48)-->phy:   560 (frm:   2) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 58844 0x58844 (pg:229, off:220)-->phy:   988 (frm:   3) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 22173 0x22173 (pg: 86, off:157)-->phy:  1181 (frm:   4) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  8535 0x8535 (pg: 33, off: 87)-->phy:  1367 (frm:   5) (prv:  16)--> val:   85 == value:   85 --  +    HIT!
+log: 42261 0x42261 (pg:165, off: 21)-->phy:  1557 (frm:   6) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 29687 0x29687 (pg:115, off:247)-->phy:  2039 (frm:   7) (prv:  16)--> val:   -3 == value:   -3 --  +    HIT!
+log: 37799 0x37799 (pg:147, off:167)-->phy:  2215 (frm:   8) (prv:  16)--> val:  -23 == value:  -23 --  +    HIT!
+
+log: 22566 0x22566 (pg: 88, off: 38)-->phy:  2342 (frm:   9) (prv:  16)--> val:   22 == value:   22 --  +    HIT!
+log: 62520 0x62520 (pg:244, off: 56)-->phy:  2616 (frm:  10) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  4098 0x4098 (pg: 16, off:  2)-->phy:  2818 (frm:  11) (prv:  16)--> val:    4 == value:    4 --  +    HIT!
+log: 47999 0x47999 (pg:187, off:127)-->phy:  3199 (frm:  12) (prv:  16)--> val:  -33 == value:  -33 --  +    HIT!
+log: 49660 0x49660 (pg:193, off:252)-->phy:  3580 (frm:  13) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 37063 0x37063 (pg:144, off:199)-->phy:  3783 (frm:  14) (prv:  16)--> val:   49 == value:   49 --  +    HIT!
+log: 41856 0x41856 (pg:163, off:128)-->phy:  3968 (frm:  15) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  5417 0x5417 (pg: 21, off: 41)-->phy:  4137 (frm:  16) (prv:  16)--> val:    0 == value:    0 --  + ----> pg_fault
+log: 48856 0x48856 (pg:190, off:216)-->phy:   216 (frm:   0) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 10682 0x10682 (pg: 41, off:186)-->phy:   442 (frm:   1) (prv:  16)--> val:   10 == value:   10 --  +    HIT!
+
+log: 22370 0x22370 (pg: 87, off: 98)-->phy:   610 (frm:   2) (prv:  16)--> val:   21 == value:   21 --  +    HIT!
+log: 63281 0x63281 (pg:247, off: 49)-->phy:   817 (frm:   3) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 62452 0x62452 (pg:243, off:244)-->phy:  1268 (frm:   4) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 50532 0x50532 (pg:197, off:100)-->phy:  1380 (frm:   5) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  9022 0x9022 (pg: 35, off: 62)-->phy:  1598 (frm:   6) (prv:  16)--> val:    8 == value:    8 --  +    HIT!
+
+log: 59300 0x59300 (pg:231, off:164)-->phy:  1956 (frm:   7) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 58660 0x58660 (pg:229, off: 36)-->phy:  2084 (frm:   8) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 56401 0x56401 (pg:220, off: 81)-->phy:  2385 (frm:   9) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  8518 0x8518 (pg: 33, off: 70)-->phy:  2630 (frm:  10) (prv:  16)--> val:    8 == value:    8 --  +    HIT!
+log: 63066 0x63066 (pg:246, off: 90)-->phy:  2906 (frm:  11) (prv:  16)--> val:   61 == value:   61 --  +    HIT!
+
+log: 63250 0x63250 (pg:247, off: 18)-->phy:   786 (frm:   3) (prv:  16)--> val:   61 == value:   61 --  +    HIT!
+log: 48592 0x48592 (pg:189, off:208)-->phy:  3280 (frm:  12) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 28771 0x28771 (pg:112, off: 99)-->phy:  3427 (frm:  13) (prv:  16)--> val:   24 == value:   24 --  +    HIT!
+log: 37673 0x37673 (pg:147, off: 41)-->phy:  3625 (frm:  14) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 60776 0x60776 (pg:237, off:104)-->phy:  3944 (frm:  15) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 56438 0x56438 (pg:220, off:118)-->phy:  2422 (frm:   9) (prv:  16)--> val:   55 == value:   55 --  +    HIT!
+log: 60424 0x60424 (pg:236, off:  8)-->phy:  4104 (frm:  16) (prv:  16)--> val:    0 == value:    0 --  + ----> pg_fault
+log: 39993 0x39993 (pg:156, off: 57)-->phy:    57 (frm:   0) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 56004 0x56004 (pg:218, off:196)-->phy:   452 (frm:   1) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 59002 0x59002 (pg:230, off:122)-->phy:   634 (frm:   2) (prv:  16)--> val:   57 == value:   57 --  +    HIT!
+
+log: 33982 0x33982 (pg:132, off:190)-->phy:   958 (frm:   3) (prv:  16)--> val:   33 == value:   33 --  +    HIT!
+log: 25498 0x25498 (pg: 99, off:154)-->phy:  1178 (frm:   4) (prv:  16)--> val:   24 == value:   24 --  +    HIT!
+log: 57047 0x57047 (pg:222, off:215)-->phy:  1495 (frm:   5) (prv:  16)--> val:  -75 == value:  -75 --  +    HIT!
+log:  1401 0x1401 (pg:  5, off:121)-->phy:  1657 (frm:   6) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 15130 0x15130 (pg: 59, off: 26)-->phy:  1818 (frm:   7) (prv:  16)--> val:   14 == value:   14 --  +    HIT!
+
+log: 42960 0x42960 (pg:167, off:208)-->phy:  2256 (frm:   8) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 61827 0x61827 (pg:241, off:131)-->phy:  2435 (frm:   9) (prv:  16)--> val:   96 == value:   96 --  +    HIT!
+log: 32442 0x32442 (pg:126, off:186)-->phy:  2746 (frm:  10) (prv:  16)--> val:   31 == value:   31 --  +    HIT!
+log: 64304 0x64304 (pg:251, off: 48)-->phy:  2864 (frm:  11) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 30273 0x30273 (pg:118, off: 65)-->phy:  3137 (frm:  12) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 38082 0x38082 (pg:148, off:194)-->phy:  3522 (frm:  13) (prv:  16)--> val:   37 == value:   37 --  +    HIT!
+log: 22404 0x22404 (pg: 87, off:132)-->phy:  3716 (frm:  14) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  3808 0x3808 (pg: 14, off:224)-->phy:  4064 (frm:  15) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 16883 0x16883 (pg: 65, off:243)-->phy:  4339 (frm:  16) (prv:  16)--> val:  124 == value:  124 --  + ----> pg_fault
+log: 23111 0x23111 (pg: 90, off: 71)-->phy:    71 (frm:   0) (prv:  16)--> val: -111 == value: -111 --  +    HIT!
+
+log: 62417 0x62417 (pg:243, off:209)-->phy:   465 (frm:   1) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 60364 0x60364 (pg:235, off:204)-->phy:   716 (frm:   2) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  4542 0x4542 (pg: 17, off:190)-->phy:   958 (frm:   3) (prv:  16)--> val:    4 == value:    4 --  +    HIT!
+log: 14829 0x14829 (pg: 57, off:237)-->phy:  1261 (frm:   4) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 44964 0x44964 (pg:175, off:164)-->phy:  1444 (frm:   5) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 33924 0x33924 (pg:132, off:132)-->phy:  1668 (frm:   6) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  2141 0x2141 (pg:  8, off: 93)-->phy:  1885 (frm:   7) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 19245 0x19245 (pg: 75, off: 45)-->phy:  2093 (frm:   8) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 47168 0x47168 (pg:184, off: 64)-->phy:  2368 (frm:   9) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 24048 0x24048 (pg: 93, off:240)-->phy:  2800 (frm:  10) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log:  1022 0x1022 (pg:  3, off:254)-->phy:  3070 (frm:  11) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 23075 0x23075 (pg: 90, off: 35)-->phy:    35 (frm:   0) (prv:  16)--> val: -120 == value: -120 --  +    HIT!
+log: 24888 0x24888 (pg: 97, off: 56)-->phy:  3128 (frm:  12) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 49247 0x49247 (pg:192, off: 95)-->phy:  3423 (frm:  13) (prv:  16)--> val:   23 == value:   23 --  +    HIT!
+log:  4900 0x4900 (pg: 19, off: 36)-->phy:  3620 (frm:  14) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 22656 0x22656 (pg: 88, off:128)-->phy:  3968 (frm:  15) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 34117 0x34117 (pg:133, off: 69)-->phy:  4165 (frm:  16) (prv:  16)--> val:    0 == value:    0 --  + ----> pg_fault
+log: 55555 0x55555 (pg:217, off:  3)-->phy:     3 (frm:   0) (prv:  16)--> val:   64 == value:   64 --  +    HIT!
+log: 48947 0x48947 (pg:191, off: 51)-->phy:   307 (frm:   1) (prv:  16)--> val:  -52 == value:  -52 --  +    HIT!
+log: 59533 0x59533 (pg:232, off:141)-->phy:   653 (frm:   2) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 21312 0x21312 (pg: 83, off: 64)-->phy:   832 (frm:   3) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 21415 0x21415 (pg: 83, off:167)-->phy:   935 (frm:   3) (prv:  16)--> val:  -23 == value:  -23 --  +    HIT!
+log:   813 0x0813 (pg:  3, off: 45)-->phy:  2861 (frm:  11) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 19419 0x19419 (pg: 75, off:219)-->phy:  2267 (frm:   8) (prv:  16)--> val:  -10 == value:  -10 --  +    HIT!
+log:  1999 0x1999 (pg:  7, off:207)-->phy:  1231 (frm:   4) (prv:  16)--> val:  -13 == value:  -13 --  +    HIT!
+
+log: 20155 0x20155 (pg: 78, off:187)-->phy:  1467 (frm:   5) (prv:  16)--> val:  -82 == value:  -82 --  +    HIT!
+log: 21521 0x21521 (pg: 84, off: 17)-->phy:  1553 (frm:   6) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 13670 0x13670 (pg: 53, off:102)-->phy:  1894 (frm:   7) (prv:  16)--> val:   13 == value:   13 --  +    HIT!
+log: 19289 0x19289 (pg: 75, off: 89)-->phy:  2137 (frm:   8) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 58483 0x58483 (pg:228, off:115)-->phy:  2163 (frm:   8) (prv:  16)--> val:   28 == value:   28 --  +    HIT!
+
+log: 41318 0x41318 (pg:161, off:102)-->phy:  2406 (frm:   9) (prv:  16)--> val:   40 == value:   40 --  +    HIT!
+log: 16151 0x16151 (pg: 63, off: 23)-->phy:  2583 (frm:  10) (prv:  16)--> val:  -59 == value:  -59 --  +    HIT!
+log: 13611 0x13611 (pg: 53, off: 43)-->phy:  1835 (frm:   7) (prv:  16)--> val:   74 == value:   74 --  +    HIT!
+log: 21514 0x21514 (pg: 84, off: 10)-->phy:  1546 (frm:   6) (prv:  16)--> val:   21 == value:   21 --  +    HIT!
+log: 13499 0x13499 (pg: 52, off:187)-->phy:  3003 (frm:  11) (prv:  16)--> val:   46 == value:   46 --  +    HIT!
+
+log: 45583 0x45583 (pg:178, off: 15)-->phy:  3087 (frm:  12) (prv:  16)--> val: -125 == value: -125 --  +    HIT!
+log: 49013 0x49013 (pg:191, off:117)-->phy:   373 (frm:   1) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 64843 0x64843 (pg:253, off: 75)-->phy:  3403 (frm:  13) (prv:  16)--> val:   82 == value:   82 --  +    HIT!
+log: 63485 0x63485 (pg:247, off:253)-->phy:  3837 (frm:  14) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 38697 0x38697 (pg:151, off: 41)-->phy:  3881 (frm:  15) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 59188 0x59188 (pg:231, off: 52)-->phy:  4148 (frm:  16) (prv:  16)--> val:    0 == value:    0 --  + ----> pg_fault
+log: 24593 0x24593 (pg: 96, off: 17)-->phy:    17 (frm:   0) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 57641 0x57641 (pg:225, off: 41)-->phy:   297 (frm:   1) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 36524 0x36524 (pg:142, off:172)-->phy:   684 (frm:   2) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 56980 0x56980 (pg:222, off:148)-->phy:   916 (frm:   3) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 36810 0x36810 (pg:143, off:202)-->phy:  1226 (frm:   4) (prv:  16)--> val:   35 == value:   35 --  +    HIT!
+log:  6096 0x6096 (pg: 23, off:208)-->phy:  1488 (frm:   5) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 11070 0x11070 (pg: 43, off: 62)-->phy:  1598 (frm:   6) (prv:  16)--> val:   10 == value:   10 --  +    HIT!
+log: 60124 0x60124 (pg:234, off:220)-->phy:  2012 (frm:   7) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 37576 0x37576 (pg:146, off:200)-->phy:  2248 (frm:   8) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 15096 0x15096 (pg: 58, off:248)-->phy:  2552 (frm:   9) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 45247 0x45247 (pg:176, off:191)-->phy:  2751 (frm:  10) (prv:  16)--> val:   47 == value:   47 --  +    HIT!
+log: 32783 0x32783 (pg:128, off: 15)-->phy:  2831 (frm:  11) (prv:  16)--> val:    3 == value:    3 --  +    HIT!
+log: 58390 0x58390 (pg:228, off: 22)-->phy:  3094 (frm:  12) (prv:  16)--> val:   57 == value:   57 --  +    HIT!
+log: 60873 0x60873 (pg:237, off:201)-->phy:  3529 (frm:  13) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 23719 0x23719 (pg: 92, off:167)-->phy:  3751 (frm:  14) (prv:  16)--> val:   41 == value:   41 --  +    HIT!
+log: 24385 0x24385 (pg: 95, off: 65)-->phy:  3905 (frm:  15) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 22307 0x22307 (pg: 87, off: 35)-->phy:  4131 (frm:  16) (prv:  16)--> val:  -56 == value:  -56 --  + ----> pg_fault
+log: 17375 0x17375 (pg: 67, off:223)-->phy:   223 (frm:   0) (prv:  16)--> val:   -9 == value:   -9 --  +    HIT!
+log: 15990 0x15990 (pg: 62, off:118)-->phy:   374 (frm:   1) (prv:  16)--> val:   15 == value:   15 --  +    HIT!
+
+log: 20526 0x20526 (pg: 80, off: 46)-->phy:   558 (frm:   2) (prv:  16)--> val:   20 == value:   20 --  +    HIT!
+log: 25904 0x25904 (pg:101, off: 48)-->phy:   816 (frm:   3) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 42224 0x42224 (pg:164, off:240)-->phy:  1264 (frm:   4) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  9311 0x9311 (pg: 36, off: 95)-->phy:  1375 (frm:   5) (prv:  16)--> val:   23 == value:   23 --  +    HIT!
+log:  7862 0x7862 (pg: 30, off:182)-->phy:  1718 (frm:   6) (prv:  16)--> val:    7 == value:    7 --  +    HIT!
+
+log:  3835 0x3835 (pg: 14, off:251)-->phy:  2043 (frm:   7) (prv:  16)--> val:  -66 == value:  -66 --  +    HIT!
+log: 30535 0x30535 (pg:119, off: 71)-->phy:  2119 (frm:   8) (prv:  16)--> val:  -47 == value:  -47 --  +    HIT!
+log: 65179 0x65179 (pg:254, off:155)-->phy:  2459 (frm:   9) (prv:  16)--> val:  -90 == value:  -90 --  +    HIT!
+log: 57387 0x57387 (pg:224, off: 43)-->phy:  2603 (frm:  10) (prv:  16)--> val:   10 == value:   10 --  +    HIT!
+log: 63579 0x63579 (pg:248, off: 91)-->phy:  2907 (frm:  11) (prv:  16)--> val:   22 == value:   22 --  +    HIT!
+
+log:  4946 0x4946 (pg: 19, off: 82)-->phy:  3154 (frm:  12) (prv:  16)--> val:    4 == value:    4 --  +    HIT!
+log:  9037 0x9037 (pg: 35, off: 77)-->phy:  3405 (frm:  13) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 61033 0x61033 (pg:238, off:105)-->phy:  3689 (frm:  14) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 55543 0x55543 (pg:216, off:247)-->phy:  4087 (frm:  15) (prv:  16)--> val:   61 == value:   61 --  +    HIT!
+log: 50361 0x50361 (pg:196, off:185)-->phy:  4281 (frm:  16) (prv:  16)--> val:    0 == value:    0 --  + ----> pg_fault
+
+log:  6480 0x6480 (pg: 25, off: 80)-->phy:    80 (frm:   0) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 14042 0x14042 (pg: 54, off:218)-->phy:   474 (frm:   1) (prv:  16)--> val:   13 == value:   13 --  +    HIT!
+log: 21531 0x21531 (pg: 84, off: 27)-->phy:   539 (frm:   2) (prv:  16)--> val:    6 == value:    6 --  +    HIT!
+log: 39195 0x39195 (pg:153, off: 27)-->phy:   795 (frm:   3) (prv:  16)--> val:   70 == value:   70 --  +    HIT!
+log: 37511 0x37511 (pg:146, off:135)-->phy:  1159 (frm:   4) (prv:  16)--> val:  -95 == value:  -95 --  +    HIT!
+
+log: 23696 0x23696 (pg: 92, off:144)-->phy:  1424 (frm:   5) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 27440 0x27440 (pg:107, off: 48)-->phy:  1584 (frm:   6) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 28201 0x28201 (pg:110, off: 41)-->phy:  1833 (frm:   7) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 23072 0x23072 (pg: 90, off: 32)-->phy:  2080 (frm:   8) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  7814 0x7814 (pg: 30, off:134)-->phy:  2438 (frm:   9) (prv:  16)--> val:    7 == value:    7 --  +    HIT!
+
+log:  6552 0x6552 (pg: 25, off:152)-->phy:   152 (frm:   0) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 43637 0x43637 (pg:170, off:117)-->phy:  2677 (frm:  10) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 35113 0x35113 (pg:137, off: 41)-->phy:  2857 (frm:  11) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 34890 0x34890 (pg:136, off: 74)-->phy:  3146 (frm:  12) (prv:  16)--> val:   34 == value:   34 --  +    HIT!
+log: 61297 0x61297 (pg:239, off:113)-->phy:  3441 (frm:  13) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 45633 0x45633 (pg:178, off: 65)-->phy:  3649 (frm:  14) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 61431 0x61431 (pg:239, off:247)-->phy:  3575 (frm:  13) (prv:  16)--> val:   -3 == value:   -3 --  +    HIT!
+log: 46032 0x46032 (pg:179, off:208)-->phy:  4048 (frm:  15) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 18774 0x18774 (pg: 73, off: 86)-->phy:  4182 (frm:  16) (prv:  16)--> val:   18 == value:   18 --  + ----> pg_fault
+log: 62991 0x62991 (pg:246, off: 15)-->phy:    15 (frm:   0) (prv:  16)--> val: -125 == value: -125 --  +    HIT!
+
+log: 28059 0x28059 (pg:109, off:155)-->phy:   411 (frm:   1) (prv:  16)--> val:  102 == value:  102 --  +    HIT!
+log: 35229 0x35229 (pg:137, off:157)-->phy:  2973 (frm:  11) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 51230 0x51230 (pg:200, off: 30)-->phy:   542 (frm:   2) (prv:  16)--> val:   50 == value:   50 --  +    HIT!
+log: 14405 0x14405 (pg: 56, off: 69)-->phy:   837 (frm:   3) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 52242 0x52242 (pg:204, off: 18)-->phy:  1042 (frm:   4) (prv:  16)--> val:   51 == value:   51 --  +    HIT!
+
+log: 43153 0x43153 (pg:168, off:145)-->phy:  1425 (frm:   5) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  2709 0x2709 (pg: 10, off:149)-->phy:  1685 (frm:   6) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 47963 0x47963 (pg:187, off: 91)-->phy:  1883 (frm:   7) (prv:  16)--> val:  -42 == value:  -42 --  +    HIT!
+log: 36943 0x36943 (pg:144, off: 79)-->phy:  2127 (frm:   8) (prv:  16)--> val:   19 == value:   19 --  +    HIT!
+log: 54066 0x54066 (pg:211, off: 50)-->phy:  2354 (frm:   9) (prv:  16)--> val:   52 == value:   52 --  +    HIT!
+
+log: 10054 0x10054 (pg: 39, off: 70)-->phy:  2630 (frm:  10) (prv:  16)--> val:    9 == value:    9 --  +    HIT!
+log: 43051 0x43051 (pg:168, off: 43)-->phy:  1323 (frm:   5) (prv:  16)--> val:   10 == value:   10 --  +    HIT!
+log: 11525 0x11525 (pg: 45, off:  5)-->phy:  2821 (frm:  11) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 17684 0x17684 (pg: 69, off: 20)-->phy:  3092 (frm:  12) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 41681 0x41681 (pg:162, off:209)-->phy:  3537 (frm:  13) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 27883 0x27883 (pg:108, off:235)-->phy:  3819 (frm:  14) (prv:  16)--> val:   58 == value:   58 --  +    HIT!
+log: 56909 0x56909 (pg:222, off: 77)-->phy:  3917 (frm:  15) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 45772 0x45772 (pg:178, off:204)-->phy:  4300 (frm:  16) (prv:  16)--> val:    0 == value:    0 --  + ----> pg_fault
+log: 27496 0x27496 (pg:107, off:104)-->phy:   104 (frm:   0) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 46842 0x46842 (pg:182, off:250)-->phy:   506 (frm:   1) (prv:  16)--> val:   45 == value:   45 --  +    HIT!
+
+log: 38734 0x38734 (pg:151, off: 78)-->phy:   590 (frm:   2) (prv:  16)--> val:   37 == value:   37 --  +    HIT!
+log: 28972 0x28972 (pg:113, off: 44)-->phy:   812 (frm:   3) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 59684 0x59684 (pg:233, off: 36)-->phy:  1060 (frm:   4) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 11384 0x11384 (pg: 44, off:120)-->phy:  1400 (frm:   5) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 21018 0x21018 (pg: 82, off: 26)-->phy:  1562 (frm:   6) (prv:  16)--> val:   20 == value:   20 --  +    HIT!
+
+log:  2192 0x2192 (pg:  8, off:144)-->phy:  1936 (frm:   7) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 18384 0x18384 (pg: 71, off:208)-->phy:  2256 (frm:   8) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 13464 0x13464 (pg: 52, off:152)-->phy:  2456 (frm:   9) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 31018 0x31018 (pg:121, off: 42)-->phy:  2602 (frm:  10) (prv:  16)--> val:   30 == value:   30 --  +    HIT!
+log: 62958 0x62958 (pg:245, off:238)-->phy:  3054 (frm:  11) (prv:  16)--> val:   61 == value:   61 --  +    HIT!
+
+log: 30611 0x30611 (pg:119, off:147)-->phy:  3219 (frm:  12) (prv:  16)--> val:  -28 == value:  -28 --  +    HIT!
+log:  1913 0x1913 (pg:  7, off:121)-->phy:  3449 (frm:  13) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 18904 0x18904 (pg: 73, off:216)-->phy:  3800 (frm:  14) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 26773 0x26773 (pg:104, off:149)-->phy:  3989 (frm:  15) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 55491 0x55491 (pg:216, off:195)-->phy:  4291 (frm:  16) (prv:  16)--> val:   48 == value:   48 --  + ----> pg_fault
+
+log: 21899 0x21899 (pg: 85, off:139)-->phy:   139 (frm:   0) (prv:  16)--> val:   98 == value:   98 --  +    HIT!
+log: 64413 0x64413 (pg:251, off:157)-->phy:   413 (frm:   1) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 47134 0x47134 (pg:184, off: 30)-->phy:   542 (frm:   2) (prv:  16)--> val:   46 == value:   46 --  +    HIT!
+log: 23172 0x23172 (pg: 90, off:132)-->phy:   900 (frm:   3) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  7262 0x7262 (pg: 28, off: 94)-->phy:  1118 (frm:   4) (prv:  16)--> val:    7 == value:    7 --  +    HIT!
+
+log: 12705 0x12705 (pg: 49, off:161)-->phy:  1441 (frm:   5) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  7522 0x7522 (pg: 29, off: 98)-->phy:  1634 (frm:   6) (prv:  16)--> val:    7 == value:    7 --  +    HIT!
+log: 58815 0x58815 (pg:229, off:191)-->phy:  1983 (frm:   7) (prv:  16)--> val:  111 == value:  111 --  +    HIT!
+log: 34916 0x34916 (pg:136, off:100)-->phy:  2148 (frm:   8) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  3802 0x3802 (pg: 14, off:218)-->phy:  2522 (frm:   9) (prv:  16)--> val:    3 == value:    3 --  +    HIT!
+
+log: 58008 0x58008 (pg:226, off:152)-->phy:  2712 (frm:  10) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  1239 0x1239 (pg:  4, off:215)-->phy:  3031 (frm:  11) (prv:  16)--> val:   53 == value:   53 --  +    HIT!
+log: 63947 0x63947 (pg:249, off:203)-->phy:  3275 (frm:  12) (prv:  16)--> val:  114 == value:  114 --  +    HIT!
+log:   381 0x0381 (pg:  1, off:125)-->phy:  3453 (frm:  13) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 60734 0x60734 (pg:237, off: 62)-->phy:  3646 (frm:  14) (prv:  16)--> val:   59 == value:   59 --  +    HIT!
+
+log: 48769 0x48769 (pg:190, off:129)-->phy:  3969 (frm:  15) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 41938 0x41938 (pg:163, off:210)-->phy:  4306 (frm:  16) (prv:  16)--> val:   40 == value:   40 --  + ----> pg_fault
+log: 38025 0x38025 (pg:148, off:137)-->phy:   137 (frm:   0) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 55099 0x55099 (pg:215, off: 59)-->phy:   315 (frm:   1) (prv:  16)--> val:  -50 == value:  -50 --  +    HIT!
+log: 56691 0x56691 (pg:221, off:115)-->phy:   627 (frm:   2) (prv:  16)--> val:   92 == value:   92 --  +    HIT!
+
+log: 39530 0x39530 (pg:154, off:106)-->phy:   874 (frm:   3) (prv:  16)--> val:   38 == value:   38 --  +    HIT!
+log: 59003 0x59003 (pg:230, off:123)-->phy:  1147 (frm:   4) (prv:  16)--> val:  -98 == value:  -98 --  +    HIT!
+log:  6029 0x6029 (pg: 23, off:141)-->phy:  1421 (frm:   5) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 20920 0x20920 (pg: 81, off:184)-->phy:  1720 (frm:   6) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  8077 0x8077 (pg: 31, off:141)-->phy:  1933 (frm:   7) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 42633 0x42633 (pg:166, off:137)-->phy:  2185 (frm:   8) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 17443 0x17443 (pg: 68, off: 35)-->phy:  2339 (frm:   9) (prv:  16)--> val:    8 == value:    8 --  +    HIT!
+log: 53570 0x53570 (pg:209, off: 66)-->phy:  2626 (frm:  10) (prv:  16)--> val:   52 == value:   52 --  +    HIT!
+log: 22833 0x22833 (pg: 89, off: 49)-->phy:  2865 (frm:  11) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  3782 0x3782 (pg: 14, off:198)-->phy:  3270 (frm:  12) (prv:  16)--> val:    3 == value:    3 --  +    HIT!
+
+log: 47758 0x47758 (pg:186, off:142)-->phy:  3470 (frm:  13) (prv:  16)--> val:   46 == value:   46 --  +    HIT!
+log: 22136 0x22136 (pg: 86, off:120)-->phy:  3704 (frm:  14) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 22427 0x22427 (pg: 87, off:155)-->phy:  3995 (frm:  15) (prv:  16)--> val:  -26 == value:  -26 --  +    HIT!
+log: 23867 0x23867 (pg: 93, off: 59)-->phy:  4155 (frm:  16) (prv:  16)--> val:   78 == value:   78 --  + ----> pg_fault
+log: 59968 0x59968 (pg:234, off: 64)-->phy:    64 (frm:   0) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 62166 0x62166 (pg:242, off:214)-->phy:   470 (frm:   1) (prv:  16)--> val:   60 == value:   60 --  +    HIT!
+log:  6972 0x6972 (pg: 27, off: 60)-->phy:   572 (frm:   2) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 63684 0x63684 (pg:248, off:196)-->phy:   964 (frm:   3) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 46388 0x46388 (pg:181, off: 52)-->phy:  1076 (frm:   4) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 41942 0x41942 (pg:163, off:214)-->phy:  1494 (frm:   5) (prv:  16)--> val:   40 == value:   40 --  +    HIT!
+
+log: 36524 0x36524 (pg:142, off:172)-->phy:  1708 (frm:   6) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  9323 0x9323 (pg: 36, off:107)-->phy:  1899 (frm:   7) (prv:  16)--> val:   26 == value:   26 --  +    HIT!
+log: 31114 0x31114 (pg:121, off:138)-->phy:  2186 (frm:   8) (prv:  16)--> val:   30 == value:   30 --  +    HIT!
+log: 22345 0x22345 (pg: 87, off: 73)-->phy:  3913 (frm:  15) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 46463 0x46463 (pg:181, off:127)-->phy:  1151 (frm:   4) (prv:  16)--> val:   95 == value:   95 --  +    HIT!
+
+log: 54671 0x54671 (pg:213, off:143)-->phy:  2447 (frm:   9) (prv:  16)--> val:   99 == value:   99 --  +    HIT!
+log:  9214 0x9214 (pg: 35, off:254)-->phy:  2814 (frm:  10) (prv:  16)--> val:    8 == value:    8 --  +    HIT!
+log:  7257 0x7257 (pg: 28, off: 89)-->phy:  2905 (frm:  11) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 33150 0x33150 (pg:129, off:126)-->phy:  3198 (frm:  12) (prv:  16)--> val:   32 == value:   32 --  +    HIT!
+log: 41565 0x41565 (pg:162, off: 93)-->phy:  3421 (frm:  13) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 26214 0x26214 (pg:102, off:102)-->phy:  3686 (frm:  14) (prv:  16)--> val:   25 == value:   25 --  +    HIT!
+log:  3595 0x3595 (pg: 14, off: 11)-->phy:  3851 (frm:  15) (prv:  16)--> val: -126 == value: -126 --  +    HIT!
+log: 17932 0x17932 (pg: 70, off: 12)-->phy:  4108 (frm:  16) (prv:  16)--> val:    0 == value:    0 --  + ----> pg_fault
+log: 34660 0x34660 (pg:135, off:100)-->phy:   100 (frm:   0) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 51961 0x51961 (pg:202, off:249)-->phy:   505 (frm:   1) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 58634 0x58634 (pg:229, off: 10)-->phy:   522 (frm:   2) (prv:  16)--> val:   57 == value:   57 --  +    HIT!
+log: 57990 0x57990 (pg:226, off:134)-->phy:   902 (frm:   3) (prv:  16)--> val:   56 == value:   56 --  +    HIT!
+log: 28848 0x28848 (pg:112, off:176)-->phy:  1200 (frm:   4) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 49920 0x49920 (pg:195, off:  0)-->phy:  1280 (frm:   5) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 18351 0x18351 (pg: 71, off:175)-->phy:  1711 (frm:   6) (prv:  16)--> val:  -21 == value:  -21 --  +    HIT!
+
+log: 53669 0x53669 (pg:209, off:165)-->phy:  1957 (frm:   7) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 33996 0x33996 (pg:132, off:204)-->phy:  2252 (frm:   8) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  6741 0x6741 (pg: 26, off: 85)-->phy:  2389 (frm:   9) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 64098 0x64098 (pg:250, off: 98)-->phy:  2658 (frm:  10) (prv:  16)--> val:   62 == value:   62 --  +    HIT!
+log:   606 0x0606 (pg:  2, off: 94)-->phy:  2910 (frm:  11) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 27383 0x27383 (pg:106, off:247)-->phy:  3319 (frm:  12) (prv:  16)--> val:  -67 == value:  -67 --  +    HIT!
+log: 63140 0x63140 (pg:246, off:164)-->phy:  3492 (frm:  13) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 32228 0x32228 (pg:125, off:228)-->phy:  3812 (frm:  14) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 63437 0x63437 (pg:247, off:205)-->phy:  4045 (frm:  15) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 29085 0x29085 (pg:113, off:157)-->phy:  4253 (frm:  16) (prv:  16)--> val:    0 == value:    0 --  + ----> pg_fault
+
+log: 65080 0x65080 (pg:254, off: 56)-->phy:    56 (frm:   0) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 38753 0x38753 (pg:151, off: 97)-->phy:   353 (frm:   1) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 16041 0x16041 (pg: 62, off:169)-->phy:   681 (frm:   2) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  9041 0x9041 (pg: 35, off: 81)-->phy:   849 (frm:   3) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 42090 0x42090 (pg:164, off:106)-->phy:  1130 (frm:   4) (prv:  16)--> val:   41 == value:   41 --  +    HIT!
+
+log: 46388 0x46388 (pg:181, off: 52)-->phy:  1332 (frm:   5) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 63650 0x63650 (pg:248, off:162)-->phy:  1698 (frm:   6) (prv:  16)--> val:   62 == value:   62 --  +    HIT!
+log: 36636 0x36636 (pg:143, off: 28)-->phy:  1820 (frm:   7) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 21947 0x21947 (pg: 85, off:187)-->phy:  2235 (frm:   8) (prv:  16)--> val:  110 == value:  110 --  +    HIT!
+log: 19833 0x19833 (pg: 77, off:121)-->phy:  2425 (frm:   9) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 36464 0x36464 (pg:142, off:112)-->phy:  2672 (frm:  10) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  8541 0x8541 (pg: 33, off: 93)-->phy:  2909 (frm:  11) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 12712 0x12712 (pg: 49, off:168)-->phy:  3240 (frm:  12) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 48955 0x48955 (pg:191, off: 59)-->phy:  3387 (frm:  13) (prv:  16)--> val:  -50 == value:  -50 --  +    HIT!
+log: 39206 0x39206 (pg:153, off: 38)-->phy:  3622 (frm:  14) (prv:  16)--> val:   38 == value:   38 --  +    HIT!
+
+log: 15578 0x15578 (pg: 60, off:218)-->phy:  4058 (frm:  15) (prv:  16)--> val:   15 == value:   15 --  +    HIT!
+log: 49205 0x49205 (pg:192, off: 53)-->phy:  4149 (frm:  16) (prv:  16)--> val:    0 == value:    0 --  + ----> pg_fault
+log:  7731 0x7731 (pg: 30, off: 51)-->phy:    51 (frm:   0) (prv:  16)--> val: -116 == value: -116 --  +    HIT!
+log: 43046 0x43046 (pg:168, off: 38)-->phy:   294 (frm:   1) (prv:  16)--> val:   42 == value:   42 --  +    HIT!
+log: 60498 0x60498 (pg:236, off: 82)-->phy:   594 (frm:   2) (prv:  16)--> val:   59 == value:   59 --  +    HIT!
+
+log:  9237 0x9237 (pg: 36, off: 21)-->phy:   789 (frm:   3) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 47706 0x47706 (pg:186, off: 90)-->phy:  1114 (frm:   4) (prv:  16)--> val:   46 == value:   46 --  +    HIT!
+log: 43973 0x43973 (pg:171, off:197)-->phy:  1477 (frm:   5) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 42008 0x42008 (pg:164, off: 24)-->phy:  1560 (frm:   6) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 27460 0x27460 (pg:107, off: 68)-->phy:  1860 (frm:   7) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 24999 0x24999 (pg: 97, off:167)-->phy:  2215 (frm:   8) (prv:  16)--> val:  105 == value:  105 --  +    HIT!
+log: 51933 0x51933 (pg:202, off:221)-->phy:  2525 (frm:   9) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 34070 0x34070 (pg:133, off: 22)-->phy:  2582 (frm:  10) (prv:  16)--> val:   33 == value:   33 --  +    HIT!
+log: 65155 0x65155 (pg:254, off:131)-->phy:  2947 (frm:  11) (prv:  16)--> val:  -96 == value:  -96 --  +    HIT!
+log: 59955 0x59955 (pg:234, off: 51)-->phy:  3123 (frm:  12) (prv:  16)--> val: -116 == value: -116 --  +    HIT!
+
+log:  9277 0x9277 (pg: 36, off: 61)-->phy:   829 (frm:   3) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 20420 0x20420 (pg: 79, off:196)-->phy:  3524 (frm:  13) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 44860 0x44860 (pg:175, off: 60)-->phy:  3644 (frm:  14) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 50992 0x50992 (pg:199, off: 48)-->phy:  3888 (frm:  15) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 10583 0x10583 (pg: 41, off: 87)-->phy:  4183 (frm:  16) (prv:  16)--> val:   85 == value:   85 --  + ----> pg_fault
+
+log: 57751 0x57751 (pg:225, off:151)-->phy:   151 (frm:   0) (prv:  16)--> val:  101 == value:  101 --  +    HIT!
+log: 23195 0x23195 (pg: 90, off:155)-->phy:   411 (frm:   1) (prv:  16)--> val:  -90 == value:  -90 --  +    HIT!
+log: 27227 0x27227 (pg:106, off: 91)-->phy:   603 (frm:   2) (prv:  16)--> val: -106 == value: -106 --  +    HIT!
+log: 42816 0x42816 (pg:167, off: 64)-->phy:   832 (frm:   3) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 58219 0x58219 (pg:227, off:107)-->phy:  1131 (frm:   4) (prv:  16)--> val:  -38 == value:  -38 --  +    HIT!
+
+log: 37606 0x37606 (pg:146, off:230)-->phy:  1510 (frm:   5) (prv:  16)--> val:   36 == value:   36 --  +    HIT!
+log: 18426 0x18426 (pg: 71, off:250)-->phy:  1786 (frm:   6) (prv:  16)--> val:   17 == value:   17 --  +    HIT!
+log: 21238 0x21238 (pg: 82, off:246)-->phy:  2038 (frm:   7) (prv:  16)--> val:   20 == value:   20 --  +    HIT!
+log: 11983 0x11983 (pg: 46, off:207)-->phy:  2255 (frm:   8) (prv:  16)--> val:  -77 == value:  -77 --  +    HIT!
+log: 48394 0x48394 (pg:189, off: 10)-->phy:  2314 (frm:   9) (prv:  16)--> val:   47 == value:   47 --  +    HIT!
+
+log: 11036 0x11036 (pg: 43, off: 28)-->phy:  2588 (frm:  10) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 30557 0x30557 (pg:119, off: 93)-->phy:  2909 (frm:  11) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 23453 0x23453 (pg: 91, off:157)-->phy:  3229 (frm:  12) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 49847 0x49847 (pg:194, off:183)-->phy:  3511 (frm:  13) (prv:  16)--> val:  -83 == value:  -83 --  +    HIT!
+log: 30032 0x30032 (pg:117, off: 80)-->phy:  3664 (frm:  14) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 48065 0x48065 (pg:187, off:193)-->phy:  4033 (frm:  15) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  6957 0x6957 (pg: 27, off: 45)-->phy:  4141 (frm:  16) (prv:  16)--> val:    0 == value:    0 --  + ----> pg_fault
+log:  2301 0x2301 (pg:  8, off:253)-->phy:   253 (frm:   0) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  7736 0x7736 (pg: 30, off: 56)-->phy:   312 (frm:   1) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 31260 0x31260 (pg:122, off: 28)-->phy:   540 (frm:   2) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+
+log: 17071 0x17071 (pg: 66, off:175)-->phy:   943 (frm:   3) (prv:  16)--> val:  -85 == value:  -85 --  +    HIT!
+log:  8940 0x8940 (pg: 34, off:236)-->phy:  1260 (frm:   4) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log:  9929 0x9929 (pg: 38, off:201)-->phy:  1481 (frm:   5) (prv:  16)--> val:    0 == value:    0 --  +    HIT!
+log: 45563 0x45563 (pg:177, off:251)-->phy:  1787 (frm:   6) (prv:  16)--> val:  126 == value:  126 --  +    HIT!
+log: 12107 0x12107 (pg: 47, off: 75)-->phy:  1867 (frm:   7) (prv:  16)--> val:  -46 == value:  -46 --  +    HIT!
+
+
+Page Fault Percentage: 0.943%
+TLB Hit Percentage: 0.054%
+
+ALL logical ---> physical assertions PASSED!
+
+                ...done.
